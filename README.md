@@ -10,12 +10,6 @@
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-Grid-Logo_Light-Theme.svg?raw=true"/>
       <img width="100%" alt="AG Grid Logo" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-Grid-Logo_Dark-Theme.svg?raw=true"/>
     </picture>
-    <br>
-    <div>
-        <a href="https://github.com/ag-grid/ag-grid-react"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="32" width="32" alt="React Logo"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/ag-grid/ag-grid-angular"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="32" width="32" alt="Angular Logo"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/ag-grid/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="32" width="32" alt="Vue Logo"><a/>
-    </div>
     <br><br>
     <img src="https://img.shields.io/github/v/release/ag-grid/ag-grid?style=for-the-badge" alt="GitHub Release">
     <img src="https://img.shields.io/npm/dm/ag-grid-community?style=for-the-badge" alt="NPM Downloads">
@@ -27,31 +21,13 @@
     <p><a href="./#overview">Overview</a> • <a href="./#get-started">Get Started</a> • <a href="./#community">Community</a> • <a href="./#support">Support</a></p>
 </div>
 
-## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [AG Grid Community vs AG Grid Enterprise](#ag-grid-community-vs-ag-grid-enterprise)
-  - [ag-Grid Community ](#ag-grid-community-)
-  - [ag-Grid Enterprise ](#ag-grid-enterprise-)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Add a placeholder to HTML](#add-a-placeholder-to-html)
-  - [Import the grid and styles](#import-the-grid-and-styles)
-  - [Set configuration](#set-configuration)
-  - [Initialise the grid](#initialise-the-grid)
-- [Features](#features)
-- [Customisations](#customisations)
-  - [Custom Components](#custom-components)
-  - [Themes](#themes)
-  - [Theme Builder](#theme-builder)
-- [Community](#community)
-  - [Tools \& Extensions](#tools--extensions)
-  - [Showcase](#showcase)
-- [Support](#support)
-  - [Issue Reporting](#issue-reporting)
-  - [Asking Questions](#asking-questions)
-- [Contributing](#contributing)
-- [License](#license)
+<div align="center">
+    <br>
+    <a href="https://github.com/ag-grid/ag-grid-react"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="32" width="32" alt="React Logo"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/ag-grid/ag-grid-angular"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="32" width="32" alt="Angular Logo"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/ag-grid/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="32" width="32" alt="Vue Logo"><a/>
+</div>
 
 ## AG Grid Community vs AG Grid Enterprise
 
