@@ -143,6 +143,9 @@ const eGridDiv = document.querySelector('#myGrid');
 const api = createGrid(eGridDiv, gridOptions);
 ```
 
+> [!IMPORTANT]
+> For more information on building Data Grids with AG Grid, refer to our [Documentation](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
+
 ### Seed Projects 
 
 We also provide [Seed Projects](https://github.com/ag-grid/ag-grid-seed) to help you get started with common configurations:
@@ -205,9 +208,6 @@ AG Grid is fully customisable, both in terms of appearance and functionality. We
 
 - [Figma Design System](https://www.figma.com/community/file/1360600846643230092/ag-grid-design-system)
 </details>
-
-> [!IMPORTANT]
-> For more information on building Data Grids with AG Grid, refer to our [Documentation](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
 
 ## 🌍 Community
 
@@ -315,7 +315,7 @@ AG Grid is used by 100,000's of developers across the world, from almost every i
 
 ### Stargazers
 
-Founded in 2016, AG Grid has seen a steady-rise in popularity and is now the market leader for Data Grids:
+Founded in 2016, AG Grid has seen a steady rise in popularity and is now the market leader for Data Grids:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date&theme=dark"/>
@@ -349,7 +349,7 @@ This project is licensed under the MIT license. See the [LICENSE file](./LICENSE
 
 ## 📢 Socials
 
-To keep up to date with all the latest news from AG Grid, follow us on our social platforms:
+Follow us on our social platforms to keep up to date with all the latest news from AG Grid:
 
 ![Twitter Badge](https://img.shields.io/badge/-X%20(Twitter)-black?style=for-the-badge&logo=x)
 ![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)
@@ -358,14 +358,8 @@ To keep up to date with all the latest news from AG Grid, follow us on our socia
 
 <h2><img width="24" height="24" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-BrandMark_Light-Theme.svg?raw=true" alt="AG ChartsLogo">AG Charts</h2>
 
-If you've made it this far, you may be interested in our latest project: [AG Charts](https://charts.ag-grid.com). The best JavaScript Charting library, in the world.
+If you've made it this far, you may be interested in our latest project: [AG Charts](https://charts.ag-grid.com) - The best JavaScript Charting library in the world.
 
-Initially built to power [Integrated Charts](https://www.ag-grid.com/javascript-data-grid/integrated-charts/) in AG Grid, we open-sourced this project in 2018. Having seen the steady rise in popularity since then, we have decided to invest in AG Charts with a dedicated Enterprise version (`ag-charts-enterprise`) in addition to our continued support of `ag-charts-community`:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-charts&type=Date&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-charts&type=Date"/>
-  <img width="100%" alt="The AG Grid star history chart" src="https://api.star-history.com/svg?repos=ag-grid/ag-charts&type=Date"/>
-</picture>
+Initially built to power [Integrated Charts](https://www.ag-grid.com/javascript-data-grid/integrated-charts/) in AG Grid, we open-sourced this project in 2018. Having seen the steady rise in popularity since then, we have decided to invest in AG Charts with a dedicated Enterprise version (`ag-charts-enterprise`) in addition to our continued support of `ag-charts-community`.
 
 Learn more at [AG-Charts.com](https://charts.ag-grid.com/)
