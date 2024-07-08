@@ -233,13 +233,13 @@ AG Grid is fully customisable, both in terms of appearance and functionality. We
 AG Grid has 4 themes, each available in `light` & `dark` modes. We also supply each theme with an `auto` mode that can toggle the theme based on the users' system preferences:
 
 <p float="left" align="middle">
-  <img src="./kitchen-sink-demo.png" width="49%">
-  <img src="./inventory-demo.png" width="49%">
+  <img src="./quartz-theme.png" width="49%">
+  <img src="./material-theme.png" width="49%">
 </p>
 
 <p float="left" align="middle">
-  <img src="./kitchen-sink-demo.png" width="49%">
-  <img src="./inventory-demo.png" width="49%">
+  <img src="./alpine-theme.png" width="49%">
+  <img src="./balham-theme.png" width="49%">
 </p>
 
 ### Custom Themes
