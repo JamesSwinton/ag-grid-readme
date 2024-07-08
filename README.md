@@ -18,7 +18,7 @@
     <br><br>
     <p>AG Grid is a <strong>fully-featured</strong> and <strong>highly customizable</strong> JavaScript data grid. It delivers <strong>outstanding performance</strong>, has <strong>no third-party dependencies</strong> and integrates smoothly with <strong>all major JavaScript frameworks</strong>.</p>
     <br>
-    <p><a href="./#overview">Overview</a> • <a href="./#get-started">Get Started</a> • <a href="./#community">Community</a> • <a href="./#support">Support</a></p>
+    <p><a href="./#overview">Overview</a> • <a href="./#features">Features</a> • <a href="./#get-started">Get Started</a> • <a href="./#community">Community</a> • <a href="./#support">Support</a></p>
 </div>
 
 
@@ -36,7 +36,7 @@ AG Grid is available in two versions: Community & Enterprise.
 - `ag-grid-community` is free, available under the MIT license, and comes with all of the core features expected from a Data Grid, including Sorting, Filtering, Pagination, Editing, Custom Components, Theming and more.
 - `ag-grid-enterprise` is available under a commercial license and comes with advanced features, like Integrated Charting, Pivoting, Master/Detail, Infinite Scrolling, and Exporting in addition to dedicated support from our Engineering team.
 
-### Features
+## 🎯 Features
 
 | Feature                      | AG Grid Community | AG Grid Enterprise |
 | ---------------------------- | ----------------- | ------------------ |
