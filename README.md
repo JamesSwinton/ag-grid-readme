@@ -149,7 +149,7 @@ AG Grid is fully customisable, both in terms of appearance and functionality. We
 > [!Note]
 > For more information on building Data Grids with AG Grid, refer to our [Getting Started](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) guide.
 
-## Community
+## 🏘️ Community
 
 AG Grid has a large community who have developed an entire ecosystem of community-built tools, extensions and utilities to help you create your next project, no matter which language or framework you use. Browse some examples below, or visit our [Community](https://www.ag-grid.com/community/) section to learn more.
 
@@ -253,7 +253,7 @@ AG Grid has a large community who have developed an entire ecosystem of communit
   <img width="100%" alt="The AG Grid star history chart" src="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date"/>
 </picture>
 
-## Support
+## 🔧 Support
 
 AG Grid Enterprise customers have access to dedicated support via ZenDesk, which is monitored by our engineering teams.
 
