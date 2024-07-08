@@ -106,15 +106,7 @@ AG Grid is available in two versions: Community & Enterprise.
 
 ### Examples
 
-
 <details open>
-  <summary> Performance</summary>
-    <br>
-    <img src="./kitchen-sink-demo.png">
-    <p align="right" width="100%"><a href="https://ag-grid.com/example/">View Demo</a> 🔗</p>
-</details>
-
-<details>
   <summary> Finance</summary>
     <br>
     <img src="./finance-demo.png">
@@ -224,9 +216,23 @@ We also provide [Seed Projects](https://github.com/ag-grid/ag-grid-seed) to help
 
 ## 🛠️ Customisations
 
-AG Grid is fully customisable, both in terms of appearance and functionality. We have many ways in which the grid can be customised, and a selection of tools to help create those customisations. Expand each section to learn more.
+AG Grid is fully customisable, both in terms of appearance and functionality. We have many ways in which the grid can be customised, and a selection of tools to help create those customisations:
 
 ### Custom Components
+
+You can create your own Custom Components to customise the behaviour of the grid. For example you can customise how cells are rendered, how values are edited and also create your own filters:
+
+```js
+gridOptions = {
+   columnDefs: [
+       {
+           field: 'country', // The column to add the component to
+           cellRenderer: CountryCellRenderer, // Your custom cell component
+           filter: CountryFilter // Your custom filter component
+       },
+   ],
+}
+```
 
 ### Themes
 
@@ -244,42 +250,7 @@ AG Grid has 4 themes, each available in `light` & `dark` modes. We also supply e
 
 ### Custom Themes
 
-All AG Grid themes can be customised by overriding CSS variables, or you can create a new theme entirely:
-
-- CSS Variables
-- Theme Builder
-- Figma Design System
-
-<details>
-  <summary>Custom Components</summary>
-
-- [Custom Components](https://www.ag-grid.com/javascript-data-grid/cell-renderer/)
-</details>
-
-<details>
-  <summary>Themes</summary>
-
-- [Themes](https://www.ag-grid.com/javascript-data-grid/themes/)
-</details>
-
-<details>
-  <summary>Theme Builder</summary>
-
-- [Theme Builder](https://www.ag-grid.com/theme-builder/)
-</details>
-
-<details>
-  <summary>Figma Design System</summary>
-<br>
-<p>The AG Grid Design System for Figma is the all in one solution for designers building AG Grid applications. Whether you’re looking to mock up an application using one of our included themes, or create a completely new theme the AG Grid Design System is the tool for you.</p>
-    <p>
-👉 Full suite of 1:1 Grid components: Column headers, rows, filers, inputs, buttons, menus, tool panels, and much more.
-📖 Thorough documentation for all features within the Figma file, as well as a comprehensive set of tutorial videos.
-🎨 Support for the Quartz, Alpine, and Material AG grid themes in both light & dark modes, out of the box.
-💠 Token studio support. Visit the AG Grid Design System Github Repo to download our Token Studio json file
-        </p>
-    <a href="https://www.figma.com/community/file/1360600846643230092/ag-grid-design-system">Learn More</a>
-</details>
+All AG Grid themes can be customised using [CSS variables](https://www.ag-grid.com/javascript-data-grid/global-style-customisation/), or you can create a new theme from scratch with the help of our [Theme Builder](https://www.ag-grid.com/theme-builder/) or [Figma Design System](./figma-design-system).
 
 ## 🌍 Community
 
