@@ -21,11 +21,13 @@
     <img src="https://img.shields.io/librariesio/dependents/npm/ag-grid-community" alt="Dependents (via libraries.io?style=for-the-badge)">
     <br><br>
     <p>AG Grid is a <strong>fully-featured</strong> and <strong>highly customizable</strong> JavaScript Data Grid. It delivers <strong>outstanding performance</strong>, has <strong>no third-party dependencies</strong> and comes with support for <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-react"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="16" width="16" alt="React Logo"> React</a></strong>, <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-angular"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="16" width="16" alt="Angular Logo"> Angular</a></strong> and <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="16" width="16" alt="Vue Logo"> Vue</a></strong>.</p>
-    <br>
-<p><a href="https://www.ag-grid.com">Website</a> • <a href="https://www.ag-grid.com/documentation">Documentation</a> • <a href="https://www.ag-grid.com/community">Community</a></p>
 </div>
 
 ![Kitchen Sink Demo](./kitchen-sink-demo.png)
+
+<div align="center">
+    <h4><a href="https://www.ag-grid.com">🌐 Website</a> • <a href="https://www.ag-grid.com/documentation">📖 Documentation</a> • <a href="https://www.ag-grid.com/community">🏘️ Community</a></h4>
+</div>
 
 <details>
   <summary><b>Table of Contents</b></summary>
