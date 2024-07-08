@@ -153,7 +153,7 @@ AG Grid is fully customisable, both in terms of appearance and functionality. We
 
 ## Community
 
-AG Grid has a community of...
+AG Grid has a large community who have developed an entire ecosystem of community-built tools, extensions and utilities to help you create your next project, no matter which language or framework you use. Browse some examples below, or visit our [Community](https://www.ag-grid.com/community/) section to learn more.
 
 ### Tools & Extensions
 
@@ -221,10 +221,29 @@ AG Grid has a community of...
 
 ### Showcase
 
--   Finance
--   ML/AI
--   Databases
--   Aeronautics
+<details>
+  <summary>🏦&nbsp;<b>Finance</b></summary>
+
+- [name](link)
+</details>
+
+<details>
+  <summary>🤖&nbsp;<b>ML/AI</b></summary>
+
+- [name](link)
+</details>
+
+<details>
+  <summary>🫙&nbsp;<b>Database</b></summary>
+
+- [name](link)
+</details>
+
+<details>
+  <summary>🚀&nbsp;<b>Aeronautics</b></summary>
+
+- [name](link)
+</details>
 
 [View All](/)
 
