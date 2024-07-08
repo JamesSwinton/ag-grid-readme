@@ -120,23 +120,36 @@ const eGridDiv = document.querySelector('#myGrid');
 const api = createGrid(eGridDiv, gridOptions);
 ```
 
-For more information on how to integrate the grid into your project see [Building AG Grid Applications](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
-
 ### Customisations
 
-AG Grid is fully customisable, both in terms of appearance and functionality. To alter the look & feel of the data grid, choose from and customise one of our 5 themes, or create your own entirely with our Theme Builder. 
+AG Grid is fully customisable, both in terms of appearance and functionality. We have many ways in which the grid can be customised and a selection of tools to help create those customisations. Expand each section to learn more.
 
-#### Custom Components
+<details>
+  <summary><b>Custom Components</b></summary>
 
-AG Grid allows you to add your components within cells, so you can customise the functionality in any way you like.
+- [Custom Components](https://www.ag-grid.com/javascript-data-grid/cell-renderer/)
+</details>
 
-#### Themes & Styles
-
-AG Grid comes with 5 themes which can be customised by overridding CSS variables. You can also create your own themes entirely using our new Theme Builder - a drag-and-drop interface for prototyping and designing new AG Grid themes:
+<details>
+  <summary><b>Themes</b></summary>
 
 - [Themes](https://www.ag-grid.com/javascript-data-grid/themes/)
+</details>
+
+<details>
+  <summary><b>Theme Builder</b></summary>
+
 - [Theme Builder](https://www.ag-grid.com/theme-builder/)
+</details>
+
+<details>
+  <summary><b>Figma Design System</b></summary>
+
 - [Figma Design System](https://www.figma.com/community/file/1360600846643230092/ag-grid-design-system)
+</details>
+
+> [!Note]
+> For more information on how to integrate the grid into your project see [Building AG Grid Applications](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
 
 ## Community
 
