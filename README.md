@@ -8,20 +8,34 @@
       <img width="100%" alt="AG Grid Logo" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-Grid-Logo_Dark-Theme.svg?raw=true"/>
     </picture>
     <div align="center">
-        <h4><a href="https://www.ag-grid.com">🌐 Website</a> • <a href="https://www.ag-grid.com/documentation">📖 Documentation</a> • <a href="https://www.ag-grid.com/community">🏘️ Community</a></h4>
+        <h4><a href="https://www.ag-grid.com">🌐 Website</a> • <a href="https://www.ag-grid.com/javascript-data-grid/getting-started/">📖 Documentation</a> • <a href="https://www.ag-grid.com/community">🏘️ Community</a></h4>
     </div>
     <br>
-    <img src="https://img.shields.io/github/v/release/ag-grid/ag-grid?style=for-the-badge" alt="GitHub Release">
-    <img src="https://img.shields.io/npm/dm/ag-grid-community?style=for-the-badge" alt="NPM Downloads">
-    <img src="https://img.shields.io/github/stars/ag-grid/ag-grid?style=for-the-badge" alt="GitHub Repo stars">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/ag-grid/ag-grid?style=for-the-badge">
+    <a href="https://github.com/ag-grid/ag-grid/releases">
+        <img src="https://img.shields.io/github/v/release/ag-grid/ag-grid?style=for-the-badge" alt="GitHub Release">
+    </a>
+    <a href="https://www.npmjs.com/package/ag-grid-community">
+        <img src="https://img.shields.io/npm/dm/ag-grid-community?style=for-the-badge" alt="NPM Downloads">
+    </a>
+    <a href="https://github.com/ag-grid/ag-grid">
+        <img src="https://img.shields.io/github/stars/ag-grid/ag-grid?style=for-the-badge" alt="GitHub Repo stars">
+    </a>
+    <a href="https://github.com/ag-grid/ag-grid">
+        <img alt="GitHub forks" src="https://img.shields.io/github/forks/ag-grid/ag-grid?style=for-the-badge">
+    </a>
     <br><br>
     <a href="https://sonarcloud.io/dashboard?id=ag-grid-enterprise">
       <img src="https://sonarcloud.io/api/project_badges/measure?project=ag-grid-enterprise&metric=alert_status" alt="Quality Gate Status">
     </a>
-    <img src="https://img.shields.io/npms-io/maintenance-score/ag-grid-community" alt="npms.io">
-    <img src="https://img.shields.io/github/commit-activity/m/ag-grid/ag-grid" alt="GitHub commit activity">
-    <img src="https://img.shields.io/librariesio/dependents/npm/ag-grid-community" alt="Dependents (via libraries.io?style=for-the-badge)">
+    <a href="https://npm.io/package/ag-grid-community">
+        <img src="https://img.shields.io/npms-io/maintenance-score/ag-grid-community" alt="npms.io Maintenance Score">
+    </a>
+    <a href="https://github.com/ag-grid/ag-grid/graphs/commit-activity">
+        <img src="https://img.shields.io/github/commit-activity/m/ag-grid/ag-grid" alt="GitHub commit activity">
+    </a>
+    <a href="https://github.com/ag-grid/ag-grid/network/dependents">
+        <img src="https://img.shields.io/librariesio/dependents/npm/ag-grid-community" alt="Dependents (via libraries.io?style=for-the-badge)">
+    </a>
     <br><br>
     <p>AG Grid is a <strong>fully-featured</strong> and <strong>highly customizable</strong> JavaScript Data Grid. It delivers <strong>outstanding performance</strong>, has <strong>no third-party dependencies</strong> and comes with support for <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-react"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="16" width="16" alt="React Logo"> React</a></strong>, <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-angular"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="16" width="16" alt="Angular Logo"> Angular</a></strong> and <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="16" width="16" alt="Vue Logo"> Vue</a></strong>.</p>
     <br>
@@ -55,12 +69,10 @@
   - [Contributing](#contributing)
   - [License](#license)
 - [📢 Socials](#-socials)
+- <p><img width="24" height="24" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-BrandMark_Light-Theme.svg?raw=true" alt="AG ChartsLogo"><a href="./#g-charts">AG Charts</a></p>
 
 </details>
 
-
-- <p><img width="24" height="24" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-BrandMark_Light-Theme.svg?raw=true" alt="AG ChartsLogo"><a href="./#g-charts">AG Charts</a></p>
-- 
 AG Grid is available in two versions: Community & Enterprise. 
 
 - `ag-grid-community` is free, available under the MIT license, and comes with all of the core features expected from a JavaScript Data Grid, including Sorting, Filtering, Pagination, Editing, Custom Components, Theming and more.
@@ -94,7 +106,15 @@ AG Grid is available in two versions: Community & Enterprise.
 
 ### Examples
 
-...
+<p float="left" align="middle">
+  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/benchmark-pipeline.png" width="49%">
+  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/benchmark_alloc.png" width="49%">
+</p>
+
+<p float="left" align="middle">
+  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/benchmark-pipeline.png" width="49%">
+  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/benchmark_alloc.png" width="49%">
+</p>
 
 ## ⚡️ Quick Start
 
@@ -144,6 +164,9 @@ const gridOptions = {
 const eGridDiv = document.querySelector('#myGrid');
 const api = createGrid(eGridDiv, gridOptions);
 ```
+
+> [!IMPORTANT]
+> For more information on building Data Grids with AG Grid, refer to our [Documentation](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
 
 ### Seed Projects 
 
@@ -207,9 +230,6 @@ AG Grid is fully customisable, both in terms of appearance and functionality. We
 
 - [Figma Design System](https://www.figma.com/community/file/1360600846643230092/ag-grid-design-system)
 </details>
-
-> [!IMPORTANT]
-> For more information on building Data Grids with AG Grid, refer to our [Documentation](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
 
 ## 🌍 Community
 
@@ -317,7 +337,7 @@ AG Grid is used by 100,000's of developers across the world, from almost every i
 
 ### Stargazers
 
-Founded in 2016, AG Grid has seen a steady-rise in popularity and is now the market leader for Data Grids:
+Founded in 2016, AG Grid has seen a steady rise in popularity and is now the market leader for Data Grids:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date&theme=dark"/>
@@ -351,7 +371,7 @@ This project is licensed under the MIT license. See the [LICENSE file](./LICENSE
 
 ## 📢 Socials
 
-To keep up to date with all the latest news from AG Grid, follow us on our social platforms:
+Follow us on our social platforms to keep up to date with all the latest news from AG Grid:
 
 ![Twitter Badge](https://img.shields.io/badge/-X%20(Twitter)-black?style=for-the-badge&logo=x)
 ![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)
@@ -360,14 +380,8 @@ To keep up to date with all the latest news from AG Grid, follow us on our socia
 
 <h2><img width="24" height="24" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-BrandMark_Light-Theme.svg?raw=true" alt="AG ChartsLogo">AG Charts</h2>
 
-If you've made it this far, you may be interested in our latest project: [AG Charts](https://charts.ag-grid.com). The best JavaScript Charting library, in the world.
+If you've made it this far, you may be interested in our latest project: [AG Charts](https://charts.ag-grid.com) - The best JavaScript Charting library in the world.
 
-Initially built to power [Integrated Charts](https://www.ag-grid.com/javascript-data-grid/integrated-charts/) in AG Grid, we open-sourced this project in 2018. Having seen the steady rise in popularity since then, we have decided to invest in AG Charts with a dedicated Enterprise version (`ag-charts-enterprise`) in addition to our continued support of `ag-charts-community`:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-charts&type=Date&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-charts&type=Date"/>
-  <img width="100%" alt="The AG Grid star history chart" src="https://api.star-history.com/svg?repos=ag-grid/ag-charts&type=Date"/>
-</picture>
+Initially built to power [Integrated Charts](https://www.ag-grid.com/javascript-data-grid/integrated-charts/) in AG Grid, we open-sourced this project in 2018. Having seen the steady rise in popularity since then, we have decided to invest in AG Charts with a dedicated Enterprise version (`ag-charts-enterprise`) in addition to our continued support of `ag-charts-community`.
 
 Learn more at [AG-Charts.com](https://charts.ag-grid.com/)
