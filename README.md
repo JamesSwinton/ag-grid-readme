@@ -80,6 +80,7 @@ AG Grid is easy to get started with all you need to do is provide your data and 
 $ npm install --save ag-grid-community
 ```
 
+> [!NOTE]
 > AG Grid is also available for [React](https://www.ag-grid.com/react-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Angular](https://www.ag-grid.com/angular-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) and [Vue](https://www.ag-grid.com/vue-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
 
 ### Add a placeholder to HTML
