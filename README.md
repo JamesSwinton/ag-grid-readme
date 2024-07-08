@@ -114,23 +114,19 @@ For more information on how to integrate the grid into your project see [Buildin
 
 ### Customisations
 
-AG Grid is highly customizable, allowing you to tailor the grid's appearance and functionality to meet your specific requirements. This section covers various customization options, including custom cell renderers, cell editors, and the AG Grid Theme Builder.
+AG Grid is fully customisable, both in terms of appearance and functionality. To alter the look & feel of the data grid, choose from and customise one of our 5 themes, or create your own entirely with our Theme Builder. 
 
 #### Custom Components
 
-#### Themes
+AG Grid allows you to add your components within cells, so you can customise the functionality in any way you like.
 
-#### Theme Builder
+#### Themes & Styles
 
-The AG Grid Theme Builder is a powerful tool that allows you to create custom themes for your ag-Grid instances. You can adjust colors, fonts, borders, and other style properties to match your application's design guidelines.
+AG Grid comes with 5 themes which can be customised by overridding CSS variables. You can also create your own themes entirely using our new Theme Builder - a drag-and-drop interface for prototyping and designing new AG Grid themes:
 
-**Features of the AG Grid Theme Builder:**
-
--   Interactive Interface: Easily customize the appearance of the grid using a visual interface.
--   Real-Time Preview: See changes in real-time as you adjust theme settings.
--   Export Options: Export your custom theme as CSS or SCSS to integrate seamlessly into your project.
-
-You can access the AG Grid Theme Builder [here](https://www.ag-grid.com/theme-builder/).
+- [Themes](https://www.ag-grid.com/javascript-data-grid/themes/)
+- [Theme Builder](https://www.ag-grid.com/theme-builder/)
+- [Figma Design System](https://www.figma.com/community/file/1360600846643230092/ag-grid-design-system)
 
 ## Community
 
