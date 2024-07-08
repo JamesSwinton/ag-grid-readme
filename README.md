@@ -23,7 +23,7 @@
     <br><br>
     <p>AG Grid is a <strong>fully-featured</strong> and <strong>highly customizable</strong> JavaScript data grid. It delivers <strong>outstanding performance</strong>, has <strong>no third-party dependencies</strong> and integrates smoothly with <strong>all major JavaScript frameworks</strong>.</p>
     <br>
-<p><a href="./#features">Features</a> • <a href="./#get-started">Quick Start</a> • <a href="./#community">Community</a> • <a href="./#support">Support</a></p>
+<p><a href="https://www.ag-grid.com">Website</a> • <a href="https://www.ag-grid.com/documentation">Documentation</a> • <a href="https://www.ag-grid.com/community">Community</a></p>
 </div>
 
 
@@ -33,6 +33,28 @@
     <a href="https://github.com/ag-grid/ag-grid-angular"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="32" width="32" alt="Angular Logo"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/ag-grid/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="32" width="32" alt="Vue Logo"><a/>
 </div>
+
+<details>
+  <summary><b>Table of Contents</b></summary>
+
+- [🎯 Features](#-features)
+- [⚡️ Quick Start](#️-quick-start)
+    - [Installation](#installation)
+    - [Add a placeholder to HTML](#add-a-placeholder-to-html)
+    - [Import the grid and styles](#import-the-grid-and-styles)
+    - [Set configuration](#set-configuration)
+    - [Initialise the grid](#initialise-the-grid)
+  - [Customisations](#customisations)
+- [🏘️ Community](#️-community)
+  - [Tools \& Extensions](#tools--extensions)
+  - [Showcase](#showcase)
+  - [Stargazers](#stargazers)
+- [🔧 Support](#-support)
+  - [Issue Reporting](#issue-reporting)
+  - [Asking Questions](#asking-questions)
+  - [Contributing](#contributing)
+  - [License](#license)
+</details>
 
 ## 🎯 Features
 
