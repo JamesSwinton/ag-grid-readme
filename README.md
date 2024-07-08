@@ -90,13 +90,13 @@ AG Grid is available in two versions: Community & Enterprise.
 | Selection                    | ✅                | ✅                 |
 | Accessibility                | ✅                | ✅                 |
 | Custom Components            | ✅                | ✅                 |
+| Infinite Scrolling           | ✅                | ✅                 |
 | Integrated Charting          | ❌                | ✅                 |
 | Row Grouping and Aggregation | ❌                | ✅                 |
 | Pivoting                     | ❌                | ✅                 |
 | Range Selection              | ❌                | ✅                 |
 | Advanced Filtering           | ❌                | ✅                 |
 | Server-Side Row Model        | ❌                | ✅                 |
-| Infinite Scrolling           | ❌                | ✅                 |
 | Excel Export                 | ❌                | ✅                 |
 | Master/Detail                | ❌                | ✅                 |
 | Tree Data                    | ❌                | ✅                 |
