@@ -193,13 +193,31 @@ AG Grid is fully customisable, both in terms of appearance and functionality. We
 </details>
 
 > [!IMPORTANT]
-> For more information on building Data Grids with AG Grid, refer to our [Docs](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) guide.
+> For more information on building Data Grids with AG Grid, refer to our [Documentation](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
 
 ## 🏘️ Community
 
-AG Grid has a large community who have developed an entire ecosystem of community-built tools, extensions and utilities to help you create your next project, no matter which language or framework you use. Browse some examples below, or visit our [Community](https://www.ag-grid.com/community/) section to learn more.
-
 ### Tools & Extensions
+
+AG Grid has a large & vibrant community who have helped create an ecosystem of 3rd party tools, extensions and utilities to help you build your next project with AG Grid, no matter which language or framework you use. Browse through some examples below, or visit our [Community](https://www.ag-grid.com/community/) section to learn more.
+
+<details>
+  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/react.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;<b>React</b></summary>
+
+- [name](link)
+</details>
+
+<details>
+  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/angular.svg?raw=true" align="center" width="16" height="16" alt="Angular Logo">&nbsp;<b>Angular</b></summary>
+
+- [name](link)
+</details>
+
+<details>
+  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/typescript.svg?raw=true" align="center" width="16" height="16" alt="TypeScript Logo">&nbsp;<b>TypeScript</b></summary>
+
+- [name](link)
+</details>
 
 <details>
   <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/python.svg?raw=true" align="center" width="16" height="16" alt="Python Logo">&nbsp;<b>Python</b></summary>
@@ -215,6 +233,12 @@ AG Grid has a large community who have developed an entire ecosystem of communit
 
 <details>
   <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/solidjs.svg?raw=true" align="center" width="16" height="16" alt="SolidJS Logo">&nbsp;<b>SolidJS</b></summary>
+
+- [name](link)
+</details>
+
+<details>
+  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/vue.svg?raw=true" align="center" width="16" height="16" alt="Vue Logo">&nbsp;<b>Vue</b></summary>
 
 - [name](link)
 </details>
@@ -237,33 +261,11 @@ AG Grid has a large community who have developed an entire ecosystem of communit
 - [name](link)
 </details>
 
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/react.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;<b>React</b></summary>
-
-- [name](link)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/angular.svg?raw=true" align="center" width="16" height="16" alt="Angular Logo">&nbsp;<b>Angular</b></summary>
-
-- [name](link)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/vue.svg?raw=true" align="center" width="16" height="16" alt="Vue Logo">&nbsp;<b>Vue</b></summary>
-
-- [name](link)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/typescript.svg?raw=true" align="center" width="16" height="16" alt="TypeScript Logo">&nbsp;<b>TypeScript</b></summary>
-
-- [name](link)
-</details>
-
 [View All](/)
 
 ### Showcase
+
+AG Grid is used by 100,000's of developers across the world, from almost every industry. Whilst a lot of these projects are private, we've curated a selection of open-source projects from a variety of industries where household names rely on AG Grid, including [J.P.Morgan](), [MongoDB]() and [Nasa]().
 
 <details>
   <summary>🏦&nbsp;<b>Finance</b></summary>
@@ -292,6 +294,8 @@ AG Grid has a large community who have developed an entire ecosystem of communit
 [View All](/)
 
 ### Stargazers
+
+Founded in 2016, AG Grid has seen a steady-rise in popularity and is now the market leader for Data Grids:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date&theme=dark"/>
