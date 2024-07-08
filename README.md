@@ -214,3 +214,11 @@ AG Grid is developed by a team of co-located developers in London. If you want t
 ## License
 
 This project is licensed under the MIT license. See the [LICENSE file](./LICENSE.txt) for more info.
+
+## Stargazers
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date"/>
+  <img width="100%" alt="The AG Grid star history chart" src="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date"/>
+</picture>
