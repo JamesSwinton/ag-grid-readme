@@ -103,13 +103,15 @@ AG Grid is easy to get started with all you need to do is provide your data and 
 $ npm install --save ag-grid-community
 ```
 
-### Add a placeholder to HTML
+### Setup
+
+1. Add a placeholder to HTML
 
 ```html
 <div id="myGrid" style="height: 150px; width: 600px" class="ag-theme-quartz"></div>
 ```
 
-### Import the grid and styles
+2. Import the grid and styles
 
 ```js
 import { createGrid } from 'ag-grid-community';
@@ -117,7 +119,7 @@ import 'ag-grid-community/styles/ag-grid.css';
 import 'ag-grid-community/styles/ag-theme-quartz.css';
 ```
 
-### Set configuration
+3. Set configuration
 
 ```js
 // Grid Options: Contains all of the Data Grid configurations
@@ -133,7 +135,7 @@ const gridOptions = {
 };
 ```
 
-### Initialise the grid
+4. Initialise the grid
 
 ```js
 const eGridDiv = document.querySelector('#myGrid');
