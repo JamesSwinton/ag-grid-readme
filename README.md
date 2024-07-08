@@ -106,15 +106,17 @@ AG Grid is available in two versions: Community & Enterprise.
 
 ### Examples
 
-<p float="left" align="middle">
-  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/benchmark-pipeline.png" width="49%">
-  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/benchmark_alloc.png" width="49%">
-</p>
+### Performance
+<img src="./kitchen-sink-demo.png">
 
-<p float="left" align="middle">
-  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/benchmark-pipeline.png" width="49%">
-  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/benchmark_alloc.png" width="49%">
-</p>
+### Finance
+<img src="./finance-demo.png">
+
+### HR
+<img src="./hr-demo.png">
+
+### Inventory
+<img src="./inventory-demo.png">
 
 ## ⚡️ Quick Start
 
