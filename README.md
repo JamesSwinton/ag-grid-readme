@@ -137,7 +137,7 @@ AG Grid is available in two versions: Community & Enterprise.
 
 ## ⚡️ Quick Start
 
-AG Grid is easy to setup - all you need to do is provide your data and define your column structure. Read on for vanilla JavaScript installation instructions, or refer to our framework-specific guides for <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-react"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="16" width="16" alt="React Logo"> React</a></strong>, <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-angular"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="16" width="16" alt="Angular Logo"> Angular</a></strong> and <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="16" width="16" alt="Vue Logo"> Vue</a></strong>.
+AG Grid is easy to set up - all you need to do is provide your data and define your column structure. Read on for vanilla JavaScript installation instructions, or refer to our framework-specific guides for <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-react"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="16" width="16" alt="React Logo"> React</a></strong>, <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-angular"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="16" width="16" alt="Angular Logo"> Angular</a></strong> and <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="16" width="16" alt="Vue Logo"> Vue</a></strong>.
 
 ### Installation
 
@@ -225,6 +225,30 @@ We also provide [Seed Projects](https://github.com/ag-grid/ag-grid-seed) to help
 ## 🛠️ Customisations
 
 AG Grid is fully customisable, both in terms of appearance and functionality. We have many ways in which the grid can be customised, and a selection of tools to help create those customisations. Expand each section to learn more.
+
+### Custom Components
+
+### Themes
+
+AG Grid has 4 themes, each available in `light` & `dark` modes. We also supply each theme with an `auto` mode that can toggle the theme based on the users' system preferences:
+
+<p float="left" align="middle">
+  <img src="./kitchen-sink-demo.png" width="49%">
+  <img src="./inventory-demo.png" width="49%">
+</p>
+
+<p float="left" align="middle">
+  <img src="./kitchen-sink-demo.png" width="49%">
+  <img src="./inventory-demo.png" width="49%">
+</p>
+
+### Custom Themes
+
+All AG Grid themes can be customised by overriding CSS variables, or you can create a new theme entirely:
+
+- CSS Variables
+- Theme Builder
+- Figma Design System
 
 <details>
   <summary>Custom Components</summary>
