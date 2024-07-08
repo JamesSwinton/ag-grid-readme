@@ -29,8 +29,10 @@
     <h4><a href="https://www.ag-grid.com">🌐 Website</a> • <a href="https://www.ag-grid.com/documentation">📖 Documentation</a> • <a href="https://www.ag-grid.com/community">🏘️ Community</a></h4>
 </div>
 
+## 📖 Overview
+
 <details>
-  <summary><b>Table of Contents</b></summary>
+  <summary><strong>Table of Contents</strong></summary>
 
 - [📖 Overview](#-overview)
   - [Features](#features)
@@ -55,8 +57,6 @@
 - [📊 AG Charts](#-ag-charts)
 - [📢 Socials](#-socials)
 </details>
-
-## 📖 Overview
 
 AG Grid is available in two versions: Community & Enterprise. 
 
