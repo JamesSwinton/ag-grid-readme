@@ -61,7 +61,13 @@ AG Grid is available in two versions: Community & Enterprise.
 
 Visit the [Pricing](https://ag-grid.com/licence-pricing) page for a full comparison.
 
-## Get Started
+## ⚡️ Quick Start
+
+AG Grid is easy to get started with all you need to do is provide your data and define your column structure. We also provide seed repositories to help you get started with common configurations:
+
+- [Vite - TypeScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-typescript)
+- [Webpack5 - JavaScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-javascript)
+- [Webpack5 - TypeScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-typescript)
 
 ### Installation
 
@@ -71,15 +77,13 @@ $ npm install --save ag-grid-community
 
 > AG Grid is also available for [React](https://www.ag-grid.com/react-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Angular](https://www.ag-grid.com/angular-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) and [Vue](https://www.ag-grid.com/vue-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
 
-### Quick Start
-
-#### Add a placeholder to HTML
+### Add a placeholder to HTML
 
 ```html
 <div id="myGrid" style="height: 150px; width: 600px" class="ag-theme-quartz"></div>
 ```
 
-#### Import the grid and styles
+### Import the grid and styles
 
 ```js
 import { createGrid } from 'ag-grid-community';
@@ -103,7 +107,7 @@ const gridOptions = {
 };
 ```
 
-#### Initialise the grid
+### Initialise the grid
 
 ```js
 const eGridDiv = document.querySelector('#myGrid');
@@ -127,12 +131,6 @@ AG Grid comes with 5 themes which can be customised by overridding CSS variables
 - [Themes](https://www.ag-grid.com/javascript-data-grid/themes/)
 - [Theme Builder](https://www.ag-grid.com/theme-builder/)
 - [Figma Design System](https://www.figma.com/community/file/1360600846643230092/ag-grid-design-system)
-- 
-### Seed Repositories
-
-- [Vite - TypeScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-typescript)
-- [Webpack5 - JavaScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-javascript)
-- [Webpack5 - TypeScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-typescript)
 
 ## Community
 
