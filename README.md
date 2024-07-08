@@ -340,10 +340,6 @@ AG Grid is developed by a team of co-located developers in London. If you want t
 
 This project is licensed under the MIT license. See the [LICENSE file](./LICENSE.txt) for more info.
 
-## 📊 AG Charts
-
-AG Charts is...
-
 ## 📢 Socials
 
 To keep up to date with all the latest news from AG Grid, follow us on our social platforms:
@@ -352,3 +348,21 @@ To keep up to date with all the latest news from AG Grid, follow us on our socia
 ![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)
 ![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)
 ![Blog Badge](https://img.shields.io/badge/-Blog-grey?style=for-the-badge&logo=rss)
+
+## 📊 AG Charts
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-Charts-Logo_Dark-Theme.svg?raw=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-Charts-Logo_Light-Theme.svg?raw=true"/>
+  <img width="100%" alt="AG Grid Logo" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-Charts-Logo_Dark-Theme.svg?raw=true"/>
+</picture>
+
+AG Charts is the latest project from the AG Grid team. Initially built to power Integrated Charts in AG Grid, we open-sourced this project in 2018. Having seen the steady rise in popularity since then, we have decided to invest in AG Charts with a dedicated Enterprise version (`ag-charts-enterprise`) in addition to our continued support of `ag-charts-community`:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-charts&type=Date&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-charts&type=Date"/>
+  <img width="100%" alt="The AG Grid star history chart" src="https://api.star-history.com/svg?repos=ag-grid/ag-charts&type=Date"/>
+</picture>
+
+Learn more at [AG-Charts.com](https://charts.ag-grid.com/)
