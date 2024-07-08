@@ -11,6 +11,11 @@
       <img width="100%" alt="AG Grid Logo" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-Grid-Logo_Dark-Theme.svg?raw=true"/>
     </picture>
     <br><br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/-X%20(Twitter)-black?style=for-the-badge&logo=x">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-blog-grey?style=for-the-badge&logo=rss">
+    <br><br>
     <img src="https://img.shields.io/github/v/release/ag-grid/ag-grid?style=for-the-badge" alt="GitHub Release">
     <img src="https://img.shields.io/npm/dm/ag-grid-community?style=for-the-badge" alt="NPM Downloads">
     <img src="https://img.shields.io/github/stars/ag-grid/ag-grid?style=for-the-badge" alt="GitHub Repo stars">
