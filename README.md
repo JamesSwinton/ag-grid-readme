@@ -1,8 +1,5 @@
 <!-- Additional Badges for consideration -->
-<!-- ![npm package minimized gzipped size](https://img.shields.io/bundlejs/size/ag-grid-community?style=for-the-badge)
-![Dependents (via libraries.io?style=for-the-badge)](https://img.shields.io/librariesio/dependents/npm/ag-grid-community?style=for-the-badge)
-![npms.io](https://img.shields.io/npms-io/maintenance-score/ag-grid-community?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ag-grid/ag-grid?style=for-the-badge) -->
+<!-- ![npm package minimized gzipped size](https://img.shields.io/bundlejs/size/ag-grid-community?style=for-the-badge) -->
 
 <div align="center">
     <picture>
@@ -21,6 +18,7 @@
     </a>
     <img src="https://img.shields.io/npms-io/maintenance-score/ag-grid-community" alt="npms.io">
     <img src="https://img.shields.io/github/commit-activity/m/ag-grid/ag-grid" alt="GitHub commit activity">
+    <img src="https://img.shields.io/librariesio/dependents/npm/ag-grid-community" alt="Dependents (via libraries.io?style=for-the-badge)">
     <br><br>
     <p>AG Grid is a <strong>fully-featured</strong> and <strong>highly customizable</strong> JavaScript Data Grid. It delivers <strong>outstanding performance</strong>, has <strong>no third-party dependencies</strong> and comes with support for <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-react"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="16" width="16" alt="React Logo"> React</a></strong>, <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-angular"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="16" width="16" alt="Angular Logo"> Angular</a></strong> and <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="16" width="16" alt="Vue Logo"> Vue</a></strong>.</p>
     <br>
@@ -81,6 +79,10 @@ AG Grid is available in two versions: Community & Enterprise.
 
 > [!IMPORTANT]
 > Visit the [License](https://www.ag-grid.com/license-pricing/) page for a full comparison.
+
+### Examples
+
+...
 
 ## ⚡️ Quick Start
 
