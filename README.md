@@ -246,8 +246,15 @@ AG Grid is fully customisable, both in terms of appearance and functionality. We
 
 <details>
   <summary>Figma Design System</summary>
-
-- [Figma Design System](https://www.figma.com/community/file/1360600846643230092/ag-grid-design-system)
+<br>
+<p>The AG Grid Design System for Figma is the all in one solution for designers building AG Grid applications. Whether you’re looking to mock up an application using one of our included themes, or create a completely new theme the AG Grid Design System is the tool for you.</p>
+    <p>
+👉 Full suite of 1:1 Grid components: Column headers, rows, filers, inputs, buttons, menus, tool panels, and much more.
+📖 Thorough documentation for all features within the Figma file, as well as a comprehensive set of tutorial videos.
+🎨 Support for the Quartz, Alpine, and Material AG grid themes in both light & dark modes, out of the box.
+💠 Token studio support. Visit the AG Grid Design System Github Repo to download our Token Studio json file
+        </p>
+    <a href="https://www.figma.com/community/file/1360600846643230092/ag-grid-design-system">Learn More</a>
 </details>
 
 ## 🌍 Community
