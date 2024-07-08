@@ -80,7 +80,7 @@ AG Grid is available in two versions: Community & Enterprise.
 | Tree Data                    | ❌                | ✅                 |
 
 > [!NOTE]
-> Visit the [Pricing](https://www.ag-grid.com/license-pricing/) page for a full comparison.
+> Visit the [License](https://www.ag-grid.com/license-pricing/) page for a full comparison.
 
 ## ⚡️ Quick Start
 
