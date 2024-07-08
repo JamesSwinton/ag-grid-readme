@@ -45,7 +45,7 @@ AG Grid is available in two versions: Community & Enterprise.
 
 | Feature                      | AG Grid Community | AG Grid Enterprise |
 | ---------------------------- | ----------------- | ------------------ |
-| Sorting                      | ✔                | ✔                 |
+| Sorting                      | ✅               | ✔                 |
 | Filtering                    | ✔                | ✔                 |
 | Pagination                   | ✔                | ✔                 |
 | Cell Editing                 | ✔                | ✔                 |
@@ -74,7 +74,7 @@ AG Grid is easy to get started with all you need to do is provide your data and 
 - [Webpack5 - JavaScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-javascript)
 - [Webpack5 - TypeScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-typescript)
 
-### Installation
+#### Installation
 
 ```sh
 $ npm install --save ag-grid-community
@@ -83,13 +83,13 @@ $ npm install --save ag-grid-community
 > [!NOTE]
 > AG Grid is also available for [React](https://www.ag-grid.com/react-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Angular](https://www.ag-grid.com/angular-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) and [Vue](https://www.ag-grid.com/vue-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
 
-### Add a placeholder to HTML
+#### Add a placeholder to HTML
 
 ```html
 <div id="myGrid" style="height: 150px; width: 600px" class="ag-theme-quartz"></div>
 ```
 
-### Import the grid and styles
+#### Import the grid and styles
 
 ```js
 import { createGrid } from 'ag-grid-community';
@@ -113,7 +113,7 @@ const gridOptions = {
 };
 ```
 
-### Initialise the grid
+#### Initialise the grid
 
 ```js
 const eGridDiv = document.querySelector('#myGrid');
