@@ -16,6 +16,8 @@
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/ag-grid/ag-grid?style=for-the-badge">
     <br><br>
     <p>AG Grid is a <strong>fully-featured</strong> and <strong>highly customizable</strong> JavaScript data grid. It delivers <strong>outstanding performance</strong>, has <strong>no third-party dependencies</strong> and integrates smoothly with <strong>all major JavaScript frameworks</strong>.</p>
+    <br>
+    <p><a href="./#overview">Overview</a> • <a href="./#get-started">Get Started</a> • <a href="./#community">Community</a> • <a href="./#support">Support</a></p>
 </div>
 
 ## Table of Contents
