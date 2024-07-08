@@ -45,24 +45,24 @@ AG Grid is available in two versions: Community & Enterprise.
 
 | Feature                      | AG Grid Community | AG Grid Enterprise |
 | ---------------------------- | ----------------- | ------------------ |
-| Sorting                      | ✅               | ✔                 |
-| Filtering                    | ✔                | ✔                 |
-| Pagination                   | ✔                | ✔                 |
-| Cell Editing                 | ✔                | ✔                 |
-| Themes and Styling           | ✔                | ✔                 |
-| Selection                    | ✔                | ✔                 |
-| Accessibility                | ✔                | ✔                 |
-| Custom Components            | ✔                | ✔                 |
-| Integrated Charting          |                   | ✔                 |
-| Row Grouping and Aggregation |                   | ✔                 |
-| Pivoting                     |                   | ✔                 |
-| Range Selection              |                   | ✔                 |
-| Advanced Filtering           |                   | ✔                 |
-| Server-Side Row Model        |                   | ✔                 |
-| Infinite Scrolling           |                   | ✔                 |
-| Excel Export                 |                   | ✔                 |
-| Master/Detail                |                   | ✔                 |
-| Tree Data                    |                   | ✔                 |
+| Sorting                      | ✅                | ✅                 |
+| Filtering                    | ✅                | ✅                 |
+| Pagination                   | ✅                | ✅                 |
+| Cell Editing                 | ✅                | ✅                 |
+| Themes and Styling           | ✅                | ✅                 |
+| Selection                    | ✅                | ✅                 |
+| Accessibility                | ✅                | ✅                 |
+| Custom Components            | ✅                | ✅                 |
+| Integrated Charting          |                   | ✅                 |
+| Row Grouping and Aggregation |                   | ✅                 |
+| Pivoting                     |                   | ✅                 |
+| Range Selection              |                   | ✅                 |
+| Advanced Filtering           |                   | ✅                 |
+| Server-Side Row Model        |                   | ✅                 |
+| Infinite Scrolling           |                   | ✅                 |
+| Excel Export                 |                   | ✅                 |
+| Master/Detail                |                   | ✅                 |
+| Tree Data                    |                   | ✅                 |
 
 Visit the [Pricing](https://ag-grid.com/licence-pricing) page for a full comparison.
 
