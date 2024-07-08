@@ -29,88 +29,14 @@
     <a href="https://github.com/ag-grid/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="32" width="32" alt="Vue Logo"><a/>
 </div>
 
-## AG Grid Community vs AG Grid Enterprise
+## Overview
 
-`ag-grid-community` is the free and open-source version of ag-Grid which comes with all of the core features needed for a data grid. However, for more advanced features and dedicated support, `ag-grid-enterprise` is available under a commercial license.
+AG Grid is available in two versions: Community & Enterprise. 
 
-### ag-Grid Community [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ag-grid-community&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ag-grid-community)
+- `ag-grid-community` is free, available under the MIT license, and comes with all of the core features expected from a Data Grid, including Sorting, Filtering, Pagination, Editing, Custom Components, Theming and more.
+- `ag-grid-enterprise` is available under a commercial license and comes with advanced features, like Integrated Charting, Pivoting, Master/Detail, Infinite Scrolling, and Exporting in addition to dedicated support from our Engineering team.
 
-![NPM License](https://img.shields.io/npm/l/ag-grid-community?style=for-the-badge)
-![NPM Downloads](https://img.shields.io/npm/dm/ag-grid-community?style=for-the-badge)
-
--   **Open Source**: Licensed under MIT, making it free to use in both commercial and non-commercial applications.
--   **Core Features**: Includes essential features such as sorting, filtering, pagination, cell editing, and theming.
--   **Community Support**: Access to community support via GitHub Issues and various online forums.
-
-### ag-Grid Enterprise [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ag-grid-enterprise&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ag-grid-community)
-
-![NPM License](https://img.shields.io/npm/l/ag-grid-enterprise?style=for-the-badge)
-![NPM Downloads](https://img.shields.io/npm/dm/ag-grid-enterprise?style=for-the-badge)
-
--   **Commercial License**: Requires a paid license, which includes access to additional features and dedicated support.
--   **Advanced Features**:
-    -   **Integrated Charts**: Enhanced data visualization and interaction capabilities.
-    -   **Row Grouping and Aggregation**: Group rows and aggregate data dynamically.
-    -   **Pivoting**: Advanced pivot table functionalities.
-    -   **Integrated Excel Export**: Export data to Excel with extensive customization options.
-    -   **Server-Side Row Model**: Efficiently handle large datasets with server-side operations.
-    -   **Master/Detail**: Display hierarchical data with master/detail views.
--   **Premium Support**: Get access to dedicated technical support to help you with integration and troubleshooting.
-
-Choosing between `ag-grid-community` and `ag-grid-enterprise` depends on your project's needs and the level of support and advanced features you require. Many users start with the community version and upgrade to the enterprise version as their application grows and demands more sophisticated grid capabilities.
-
-For a detailed comparison, visit the [Pricing](https://ag-grid.com/licence-pricing) page.
-
-## Installation
-
-```sh
-$ npm install --save ag-grid-community
-```
-
-> AG Grid is also available for [React](https://www.ag-grid.com/react-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Angular](https://www.ag-grid.com/angular-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) and [Vue](https://www.ag-grid.com/vue-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
-
-## Usage
-
-### Add a placeholder to HTML
-
-```html
-<div id="myGrid" style="height: 150px; width: 600px" class="ag-theme-quartz"></div>
-```
-
-### Import the grid and styles
-
-```js
-import { createGrid } from 'ag-grid-community';
-import 'ag-grid-community/styles/ag-grid.css';
-import 'ag-grid-community/styles/ag-theme-quartz.css';
-```
-
-### Set configuration
-
-```js
-// Grid Options: Contains all of the Data Grid configurations
-const gridOptions = {
-    // Row Data: The data to be displayed.
-    rowData: [
-        { make: 'Tesla', model: 'Model Y', price: 64950, electric: true },
-        { make: 'Ford', model: 'F-Series', price: 33850, electric: false },
-        { make: 'Toyota', model: 'Corolla', price: 29600, electric: false },
-    ],
-    // Column Definitions: Defines the columns to be displayed.
-    columnDefs: [{ field: 'make' }, { field: 'model' }, { field: 'price' }, { field: 'electric' }],
-};
-```
-
-### Initialise the grid
-
-```js
-const eGridDiv = document.querySelector('#myGrid');
-const api = createGrid(eGridDiv, gridOptions);
-```
-
-For more information on how to integrate the grid into your project see [Building AG Grid Applications](https://www.ag-grid.com/javascript-data-grid/building/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
-
-## Features
+### Features
 
 | Feature                      | AG Grid Community | AG Grid Enterprise |
 | ---------------------------- | ----------------- | ------------------ |
@@ -132,21 +58,69 @@ For more information on how to integrate the grid into your project see [Buildin
 | Excel Export                 |                   | ✔                 |
 | Master/Detail                |                   | ✔                 |
 | Tree Data                    |                   | ✔                 |
-| Clipboard Operations         |                   | ✔                 |
-| Context Menu                 |                   | ✔                 |
-| Localisation                 |                   | ✔                 |
 
-For a detailed comparison, visit the [Pricing](https://ag-grid.com/licence-pricing) page.
+Visit the [Pricing](https://ag-grid.com/licence-pricing) page for a full comparison.
 
-## Customisations
+## Get Started
+
+### Installation
+
+```sh
+$ npm install --save ag-grid-community
+```
+
+> AG Grid is also available for [React](https://www.ag-grid.com/react-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Angular](https://www.ag-grid.com/angular-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) and [Vue](https://www.ag-grid.com/vue-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
+
+### Quick Start
+
+#### Add a placeholder to HTML
+
+```html
+<div id="myGrid" style="height: 150px; width: 600px" class="ag-theme-quartz"></div>
+```
+
+#### Import the grid and styles
+
+```js
+import { createGrid } from 'ag-grid-community';
+import 'ag-grid-community/styles/ag-grid.css';
+import 'ag-grid-community/styles/ag-theme-quartz.css';
+```
+
+#### Set configuration
+
+```js
+// Grid Options: Contains all of the Data Grid configurations
+const gridOptions = {
+    // Row Data: The data to be displayed.
+    rowData: [
+        { make: 'Tesla', model: 'Model Y', price: 64950, electric: true },
+        { make: 'Ford', model: 'F-Series', price: 33850, electric: false },
+        { make: 'Toyota', model: 'Corolla', price: 29600, electric: false },
+    ],
+    // Column Definitions: Defines the columns to be displayed.
+    columnDefs: [{ field: 'make' }, { field: 'model' }, { field: 'price' }, { field: 'electric' }],
+};
+```
+
+#### Initialise the grid
+
+```js
+const eGridDiv = document.querySelector('#myGrid');
+const api = createGrid(eGridDiv, gridOptions);
+```
+
+For more information on how to integrate the grid into your project see [Building AG Grid Applications](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
+
+### Customisations
 
 AG Grid is highly customizable, allowing you to tailor the grid's appearance and functionality to meet your specific requirements. This section covers various customization options, including custom cell renderers, cell editors, and the AG Grid Theme Builder.
 
-### Custom Components
+#### Custom Components
 
-### Themes
+#### Themes
 
-### Theme Builder
+#### Theme Builder
 
 The AG Grid Theme Builder is a powerful tool that allows you to create custom themes for your ag-Grid instances. You can adjust colors, fonts, borders, and other style properties to match your application's design guidelines.
 
@@ -182,6 +156,14 @@ AG Grid has a community of...
 
 [View All](/)
 
+### Stargazers
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date"/>
+  <img width="100%" alt="The AG Grid star history chart" src="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date"/>
+</picture>
+
 ## Support
 
 AG Grid Enterprise customers have access to dedicated support via ZenDesk, which is monitored by our engineering teams.
@@ -196,18 +178,10 @@ Look for similar problems on [StackOverflow](https://stackoverflow.com/questions
 
 ![Stack Exchange questions](https://img.shields.io/stackexchange/stackoverflow.com/t/ag-grid?style=for-the-badge)
 
-## Contributing
+### Contributing
 
 AG Grid is developed by a team of co-located developers in London. If you want to join the team send your application to info@ag-grid.com.
 
-## License
+### License
 
 This project is licensed under the MIT license. See the [LICENSE file](./LICENSE.txt) for more info.
-
-## Stargazers
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date"/>
-  <img width="100%" alt="The AG Grid star history chart" src="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date"/>
-</picture>
