@@ -164,7 +164,7 @@ We also provide seed repositories to help you get started with common configurat
 - [name](link)
 </details>
 
-## Customisations
+## 🛠️ Customisations
 
 AG Grid is fully customisable, both in terms of appearance and functionality. We have many ways in which the grid can be customised and a selection of tools to help create those customisations. Expand each section to learn more.
 
@@ -195,7 +195,7 @@ AG Grid is fully customisable, both in terms of appearance and functionality. We
 > [!IMPORTANT]
 > For more information on building Data Grids with AG Grid, refer to our [Documentation](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
 
-## 🏘️ Community
+## 🌍 Community
 
 ### Tools & Extensions
 
@@ -303,7 +303,7 @@ Founded in 2016, AG Grid has seen a steady-rise in popularity and is now the mar
   <img width="100%" alt="The AG Grid star history chart" src="https://api.star-history.com/svg?repos=ag-grid/ag-grid&type=Date"/>
 </picture>
 
-## 🔧 Support
+## 🤝 Support
 
 AG Grid Enterprise customers have access to dedicated support via [ZenDesk](https://ag-grid.zendesk.com/hc/en-us), which is monitored by our engineering teams.
 
