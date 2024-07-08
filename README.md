@@ -79,7 +79,7 @@ AG Grid is available in two versions: Community & Enterprise.
 | Master/Detail                | ❌                | ✅                 |
 | Tree Data                    | ❌                | ✅                 |
 
-> [!NOTE]
+> [!IMPORTANT]
 > Visit the [License](https://www.ag-grid.com/license-pricing/) page for a full comparison.
 
 ## ⚡️ Quick Start
@@ -192,7 +192,7 @@ AG Grid is fully customisable, both in terms of appearance and functionality. We
 - [Figma Design System](https://www.figma.com/community/file/1360600846643230092/ag-grid-design-system)
 </details>
 
-> [!Note]
+> [!IMPORTANT]
 > For more information on building Data Grids with AG Grid, refer to our [Docs](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) guide.
 
 ## 🏘️ Community
@@ -321,7 +321,11 @@ AG Grid is developed by a team of co-located developers in London. If you want t
 
 This project is licensed under the MIT license. See the [LICENSE file](./LICENSE.txt) for more info.
 
-### Socials
+## 📊 AG Charts
+
+AG Charts is...
+
+## 📢 Socials
 
 To keep up to date with all the latest news from AG Grid, follow us on our social platforms:
 
