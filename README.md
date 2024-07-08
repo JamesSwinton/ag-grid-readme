@@ -40,14 +40,13 @@
   - [Examples](#examples)
 - [⚡️ Quick Start](#️-quick-start)
   - [Installation](#installation)
-  - [Add a placeholder to HTML](#add-a-placeholder-to-html)
-  - [Import the grid and styles](#import-the-grid-and-styles)
-  - [Set configuration](#set-configuration)
-  - [Initialise the grid](#initialise-the-grid)
+  - [Setup](#setup)
   - [Seed Projects](#seed-projects)
 - [🛠️ Customisations](#️-customisations)
 - [🌍 Community](#-community)
   - [Tools \& Extensions](#tools--extensions)
+    - [Adaptable](#adaptable)
+    - [Astro UXDS](#astro-uxds)
   - [Showcase](#showcase)
   - [Stargazers](#stargazers)
 - [🤝 Support](#-support)
@@ -55,10 +54,13 @@
   - [Asking Questions](#asking-questions)
   - [Contributing](#contributing)
   - [License](#license)
-- [📊 AG Charts](#-ag-charts)
 - [📢 Socials](#-socials)
+
 </details>
 
+
+- <p><img width="24" height="24" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-BrandMark_Light-Theme.svg?raw=true" alt="AG ChartsLogo"><a href="./#g-charts">AG Charts</a></p>
+- 
 AG Grid is available in two versions: Community & Enterprise. 
 
 - `ag-grid-community` is free, available under the MIT license, and comes with all of the core features expected from a JavaScript Data Grid, including Sorting, Filtering, Pagination, Editing, Custom Components, Theming and more.
