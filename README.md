@@ -4,8 +4,8 @@
 ![npms.io](https://img.shields.io/npms-io/maintenance-score/ag-grid-community?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ag-grid/ag-grid?style=for-the-badge) -->
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/ag-grid/ag-grid/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-BrandMark_Dark-Theme.svg" alt="AG Grid HTML5 Grid trusted by the community, built for enterprise">
+<div align="center">
+    <img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-Grid-Logo_Light-Theme.svg?raw=true" alt="AG Grid HTML5 Grid trusted by the community, built for enterprise">
     <img src="https://img.shields.io/github/v/release/ag-grid/ag-grid?style=for-the-badge" alt="GitHub Release">
     <img src="https://img.shields.io/npm/dm/ag-grid-community?style=for-the-badge" alt="NPM Downloads">
     <img src="https://img.shields.io/github/stars/ag-grid/ag-grid?style=for-the-badge" alt="GitHub Repo stars">
