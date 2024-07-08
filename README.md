@@ -25,26 +25,33 @@
 <p><a href="https://www.ag-grid.com">Website</a> • <a href="https://www.ag-grid.com/documentation">Documentation</a> • <a href="https://www.ag-grid.com/community">Community</a></p>
 </div>
 
+![Kitchen Sink Demo](./kitchen-sink-demo.png)
+
 <details>
   <summary><b>Table of Contents</b></summary>
 
-- [🎯 Features](#-features)
+- [📖 Overview](#-overview)
+  - [Features](#features)
+  - [Examples](#examples)
 - [⚡️ Quick Start](#️-quick-start)
-    - [Installation](#installation)
-    - [Add a placeholder to HTML](#add-a-placeholder-to-html)
-    - [Import the grid and styles](#import-the-grid-and-styles)
-    - [Set configuration](#set-configuration)
-    - [Initialise the grid](#initialise-the-grid)
-  - [Customisations](#customisations)
-- [🏘️ Community](#️-community)
+  - [Installation](#installation)
+  - [Add a placeholder to HTML](#add-a-placeholder-to-html)
+  - [Import the grid and styles](#import-the-grid-and-styles)
+  - [Set configuration](#set-configuration)
+  - [Initialise the grid](#initialise-the-grid)
+  - [Seed Projects](#seed-projects)
+- [🛠️ Customisations](#️-customisations)
+- [🌍 Community](#-community)
   - [Tools \& Extensions](#tools--extensions)
   - [Showcase](#showcase)
   - [Stargazers](#stargazers)
-- [🔧 Support](#-support)
+- [🤝 Support](#-support)
   - [Issue Reporting](#issue-reporting)
   - [Asking Questions](#asking-questions)
   - [Contributing](#contributing)
   - [License](#license)
+- [📊 AG Charts](#-ag-charts)
+- [📢 Socials](#-socials)
 </details>
 
 ## 📖 Overview
