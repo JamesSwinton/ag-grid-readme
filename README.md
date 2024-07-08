@@ -79,35 +79,18 @@ AG Grid is available in two versions: Community & Enterprise.
 | Master/Detail                |                   | ✅                 |
 | Tree Data                    |                   | ✅                 |
 
-Visit the [Pricing](https://www.ag-grid.com/license-pricing/) page for a full comparison.
-
-### Framework Support
-
-Both Community & Enterprise versions come with support for React, Angular and Vue. To learn, click the framework icon below:
-
-<div>
-    <br>
-    <a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-react"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="32" width="32" alt="React Logo"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-angular"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="32" width="32" alt="Angular Logo"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="32" width="32" alt="Vue Logo"><a/>
-</div>
+> [!NOTE]
+> Visit the [Pricing](https://www.ag-grid.com/license-pricing/) page for a full comparison.
 
 ## ⚡️ Quick Start
 
-AG Grid is easy to get started with all you need to do is provide your data and define your column structure. We also provide seed repositories to help you get started with common configurations:
-
-- [Vite - TypeScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-typescript)
-- [Webpack5 - JavaScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-javascript)
-- [Webpack5 - TypeScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-typescript)
+AG Grid is easy to get started with all you need to do is provide your data and define your column structure. Read on below for vanilla JS installation, or refer to our framework-specific guides for <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-react"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="16" width="16" alt="React Logo"> React</a></strong>, <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-angular"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="16" width="16" alt="Angular Logo"> Angular</a></strong> and <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="16" width="16" alt="Vue Logo"> Vue</a></strong>.
 
 ### Installation
 
 ```sh
 $ npm install --save ag-grid-community
 ```
-
-> [!NOTE]
-> AG Grid is also available for [React](https://www.ag-grid.com/react-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Angular](https://www.ag-grid.com/angular-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) and [Vue](https://www.ag-grid.com/vue-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
 
 ### Add a placeholder to HTML
 
@@ -146,8 +129,40 @@ const eGridDiv = document.querySelector('#myGrid');
 const api = createGrid(eGridDiv, gridOptions);
 ```
 
-> [!Note]
-> For more information on building Data Grids with AG Grid, refer to our [Getting Started](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) guide.
+### Seed Repositories 
+
+We also provide seed repositories to help you get started with common configurations:
+
+<details>
+  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/typescript.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;<b>TypeScript</b></summary>
+
+- [Vite - TypeScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-typescript)
+- [Webpack5 - TypeScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-typescript)
+</details>
+
+<details>
+  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/javascript.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;<b>JavaScript</b></summary>
+
+- [Webpack5 - JavaScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-javascript)
+</details>
+
+<details>
+  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/react.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;<b>React</b></summary>
+
+- [name](link)
+</details>
+
+<details>
+  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/angular.svg?raw=true" align="center" width="16" height="16" alt="Angular Logo">&nbsp;<b>Angular</b></summary>
+
+- [name](link)
+</details>
+
+<details>
+  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/vue.svg?raw=true" align="center" width="16" height="16" alt="Vue Logo">&nbsp;<b>Vue</b></summary>
+
+- [name](link)
+</details>
 
 ## Customisations
 
@@ -176,6 +191,9 @@ AG Grid is fully customisable, both in terms of appearance and functionality. We
 
 - [Figma Design System](https://www.figma.com/community/file/1360600846643230092/ag-grid-design-system)
 </details>
+
+> [!Note]
+> For more information on building Data Grids with AG Grid, refer to our [Docs](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) guide.
 
 ## 🏘️ Community
 
