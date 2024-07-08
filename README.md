@@ -106,26 +106,9 @@ AG Grid is available in two versions: Community & Enterprise.
 
 ### Examples
 
-<details open>
-  <summary> Finance</summary>
-    <br>
-    <img src="./finance-demo.png">
-    <p align="right" width="100%"><a href="https://ag-grid.com/example-finance/">View Demo</a> 🔗</p>
-</details>
-
-<details>
-  <summary> HR</summary>
-    <br>
-    <img src="./hr-demo.png">
-    <p align="right" width="100%"><a href="https://ag-grid.com/example-hr/">View Demo</a> 🔗</p>
-</details>
-
-<details>
-  <summary> Inventory</summary>
-    <br>
-    <img src="./inventory-demo.png">
-    <p align="right" width="100%"><a href="https://ag-grid.com/example-inventory/">View Demo</a> 🔗</p>
-</details>
+| Finance 🔗                                      | HR 🔗                                       | Inventory 🔗                                            |
+|-------------------------------------------------|---------------------------------------------|---------------------------------------------------------|
+| [![Finance](./finance-demo.png)](https://ag-grid.com/example-finance/)   | [![HR](./hr-demo.png)](https://ag-grid.com/example-hr/) | [![Inventory](./inventory-demo.png)](https://ag-grid.com/example-inventory/) |
 
 ## ⚡️ Quick Start
 
