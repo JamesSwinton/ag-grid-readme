@@ -127,6 +127,12 @@ AG Grid comes with 5 themes which can be customised by overridding CSS variables
 - [Themes](https://www.ag-grid.com/javascript-data-grid/themes/)
 - [Theme Builder](https://www.ag-grid.com/theme-builder/)
 - [Figma Design System](https://www.figma.com/community/file/1360600846643230092/ag-grid-design-system)
+- 
+### Seed Repositories
+
+- [Vite - TypeScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-typescript)
+- [Webpack5 - JavaScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-javascript)
+- [Webpack5 - TypeScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-typescript)
 
 ## Community
 
