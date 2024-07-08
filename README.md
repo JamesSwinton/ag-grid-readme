@@ -23,7 +23,7 @@
     <br><br>
     <p>AG Grid is a <strong>fully-featured</strong> and <strong>highly customizable</strong> JavaScript data grid. It delivers <strong>outstanding performance</strong>, has <strong>no third-party dependencies</strong> and integrates smoothly with <strong>all major JavaScript frameworks</strong>.</p>
     <br>
-    <p><a href="./#overview">Overview</a> • <a href="./#features">Features</a> • <a href="./#get-started">Get Started</a> • <a href="./#community">Community</a> • <a href="./#support">Support</a></p>
+<p><a href="./#features">Features</a> • <a href="./#get-started">Quick Start</a> • <a href="./#community">Community</a> • <a href="./#support">Support</a></p>
 </div>
 
 
@@ -34,14 +34,12 @@
     <a href="https://github.com/ag-grid/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="32" width="32" alt="Vue Logo"><a/>
 </div>
 
-## Overview
+## 🎯 Features
 
 AG Grid is available in two versions: Community & Enterprise. 
 
 - `ag-grid-community` is free, available under the MIT license, and comes with all of the core features expected from a Data Grid, including Sorting, Filtering, Pagination, Editing, Custom Components, Theming and more.
 - `ag-grid-enterprise` is available under a commercial license and comes with advanced features, like Integrated Charting, Pivoting, Master/Detail, Infinite Scrolling, and Exporting in addition to dedicated support from our Engineering team.
-
-## 🎯 Features
 
 | Feature                      | AG Grid Community | AG Grid Enterprise |
 | ---------------------------- | ----------------- | ------------------ |
@@ -149,7 +147,7 @@ AG Grid is fully customisable, both in terms of appearance and functionality. We
 </details>
 
 > [!Note]
-> For more information on how to integrate the grid into your project see [Building AG Grid Applications](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github).
+> For more information on building Data Grids with AG Grid, refer to our [Getting Started](https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) guide.
 
 ## Community
 
