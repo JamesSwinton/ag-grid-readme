@@ -305,17 +305,19 @@ Founded in 2016, AG Grid has seen a steady-rise in popularity and is now the mar
 
 ## 🔧 Support
 
-AG Grid Enterprise customers have access to dedicated support via ZenDesk, which is monitored by our engineering teams.
+AG Grid Enterprise customers have access to dedicated support via [ZenDesk](https://ag-grid.zendesk.com/hc/en-us), which is monitored by our engineering teams.
 
 ### Issue Reporting
 
 If you have found a bug, please report it in this repository's [issues](https://github.com/ag-grid/ag-grid/issues) section. If you're using the Enterprise version, please use the [private ticketing](https://ag-grid.zendesk.com/) system to do that.
 
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/ag-grid/ag-grid?style=for-the-badge&color=%233d8c40)
+
 ### Asking Questions
 
 Look for similar problems on [StackOverflow](https://stackoverflow.com/questions/tagged/ag-grid) using the `ag-grid` tag. If nothing seems related, post a new message there. Please do not use GitHub issues to ask questions.
 
-![Stack Exchange questions](https://img.shields.io/stackexchange/stackoverflow.com/t/ag-grid?style=for-the-badge)
+![Stack Exchange questions](https://img.shields.io/stackexchange/stackoverflow.com/t/ag-grid?style=for-the-badge&color=%233d8c40)
 
 ### Contributing
 
