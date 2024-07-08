@@ -106,17 +106,34 @@ AG Grid is available in two versions: Community & Enterprise.
 
 ### Examples
 
-### Performance
-<img src="./kitchen-sink-demo.png">
 
-### Finance
-<img src="./finance-demo.png">
+<details open>
+  <summary> Performance</summary>
+    <br>
+    <img src="./kitchen-sink-demo.png">
+    <p align="right" width="100%"><a href="https://ag-grid.com/example/">View Demo</a> 🔗</p>
+</details>
 
-### HR
-<img src="./hr-demo.png">
+<details>
+  <summary> Finance</summary>
+    <br>
+    <img src="./finance-demo.png">
+    <p align="right" width="100%"><a href="https://ag-grid.com/example-finance/">View Demo</a> 🔗</p>
+</details>
 
-### Inventory
-<img src="./inventory-demo.png">
+<details>
+  <summary> HR</summary>
+    <br>
+    <img src="./hr-demo.png">
+    <p align="right" width="100%"><a href="https://ag-grid.com/example-hr/">View Demo</a> 🔗</p>
+</details>
+
+<details>
+  <summary> Inventory</summary>
+    <br>
+    <img src="./inventory-demo.png">
+    <p align="right" width="100%"><a href="https://ag-grid.com/example-inventory/">View Demo</a> 🔗</p>
+</details>
 
 ## ⚡️ Quick Start
 
@@ -371,19 +388,23 @@ AG Grid is developed by a team of co-located developers in London. If you want t
 
 This project is licensed under the MIT license. See the [LICENSE file](./LICENSE.txt) for more info.
 
-## 📢 Socials
-
-Follow us on our social platforms to keep up to date with all the latest news from AG Grid:
-
-![Twitter Badge](https://img.shields.io/badge/-X%20(Twitter)-black?style=for-the-badge&logo=x)
-![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)
-![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)
-![Blog Badge](https://img.shields.io/badge/-Blog-grey?style=for-the-badge&logo=rss)
-
-<h2><img width="24" height="24" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-BrandMark_Light-Theme.svg?raw=true" alt="AG ChartsLogo">AG Charts</h2>
+<div><h2><img vertical-align="middle" width="32" height="32" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-BrandMark_Light-Theme.svg?raw=true" alt="AG ChartsLogo">AG Charts</h2></div>
 
 If you've made it this far, you may be interested in our latest project: [AG Charts](https://charts.ag-grid.com) - The best JavaScript Charting library in the world.
 
 Initially built to power [Integrated Charts](https://www.ag-grid.com/javascript-data-grid/integrated-charts/) in AG Grid, we open-sourced this project in 2018. Having seen the steady rise in popularity since then, we have decided to invest in AG Charts with a dedicated Enterprise version (`ag-charts-enterprise`) in addition to our continued support of `ag-charts-community`.
 
 Learn more at [AG-Charts.com](https://charts.ag-grid.com/)
+
+<div align="center">
+    
+<hr/>
+
+<strong>Follow us to keep up to date with all the latest news from AG Grid:</strong>
+
+<img src="https://img.shields.io/badge/-X%20(Twitter)-black?style=for-the-badge&logo=x" alt="Twitter Badge" height="36">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" height="36">
+<img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube Badge" height="36">
+<img src="https://img.shields.io/badge/-Blog-grey?style=for-the-badge&logo=rss" alt="Blog Badge" height="36">
+
+</div>
