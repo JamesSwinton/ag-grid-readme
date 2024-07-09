@@ -111,9 +111,38 @@ AG Grid is available in two versions: Community & Enterprise.
 
 ### Examples
 
-| Finance 🔗                                      | HR 🔗                                       | Inventory 🔗                                            |
-|-------------------------------------------------|---------------------------------------------|---------------------------------------------------------|
+#### Financial data example featuring live updates and sparklines.
+
+[![Finance](./finance-demo.png)](https://ag-grid.com/example-finance/)
+
+#### HR data example showing hierarchical employee data.
+
+[![HR](./hr-demo.png)](https://ag-grid.com/example-hr/)
+
+#### Inventory data example to view and manage products.
+
+[![Inventory](./inventory-demo.png)](https://ag-grid.com/example-inventory/)
+
+---
+
+| Finance 🔗                                      | 
+|-------------------------------------------------|
+| [![Finance](./finance-demo.png)](https://ag-grid.com/example-finance/) |
+
+| HR 🔗                                       | 
+|---------------------------------------------|
+| [![HR](./hr-demo.png)](https://ag-grid.com/example-hr/) | 
+
+| Inventory 🔗                                            |
+|---------------------------------------------------------|
+| [![Inventory](./inventory-demo.png)](https://ag-grid.com/example-inventory/) |
+
+---
+
+| Financial data example featuring live updates and sparklines.            | HR data example showing hierarchical employee data.     | Inventory data example to view and manage products.                          |
+|--------------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------|
 | [![Finance](./finance-demo.png)](https://ag-grid.com/example-finance/)   | [![HR](./hr-demo.png)](https://ag-grid.com/example-hr/) | [![Inventory](./inventory-demo.png)](https://ag-grid.com/example-inventory/) |
+
 
 ## ⚡️ Quick Start
 
