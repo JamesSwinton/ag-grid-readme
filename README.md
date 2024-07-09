@@ -200,8 +200,8 @@ We also provide [Seed Projects](https://github.com/ag-grid/ag-grid-seed) to help
 <details>
   <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/vue.svg?raw=true" align="center" width="16" height="16" alt="Vue Logo">&nbsp;Vue</summary>
 
-- [Nuxt](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/nuxt-vue3)
-- [Vite](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-vue3)
+- [Nuxt](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/nuxt-vue3): Contains a minimal starter setup using Nuxt 3, a free and open-source framework with an intuitive and extendable way to create type-safe, performant and production-grade full-stack web applications and websites with Vue.js.
+- [Vite](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-vue3): This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>`, a compile-time syntactic sugar for using Composition API inside Single-File Components (SFCs).
 </details>
 
 ## 🛠️ Customisations
