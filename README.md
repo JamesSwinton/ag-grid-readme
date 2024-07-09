@@ -111,6 +111,24 @@ AG Grid is available in two versions: Community & Enterprise.
 
 ### Examples
 
+<details>
+  <summary>Financial data example featuring live updates and sparklines:</summary>
+
+[![Finance](./finance-demo.png)](https://ag-grid.com/example-finance/)
+</details>
+
+<details>
+  <summary>HR data example showing hierarchical employee data:</summary>
+
+[![HR](./hr-demo.png)](https://ag-grid.com/example-hr/)
+</details>
+
+<details>
+  <summary>Inventory data example to view and manage products.</summary>
+
+[![Inventory](./inventory-demo.png)](https://ag-grid.com/example-inventory/)
+</details>
+
 #### Financial data example featuring live updates and sparklines.
 
 [![Finance](./finance-demo.png)](https://ag-grid.com/example-finance/)
