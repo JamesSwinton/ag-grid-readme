@@ -220,7 +220,8 @@ There are a number of different components types that you can provide to the gri
 - **Filter Component**: For custom column filter that appears inside the column menu.
 - **Floating Filter**: For custom column floating filter that appears inside the column menu.
 - **Date Component**: To customise the date selection component in the date filter.
-- **Loading Component**: To customise the loading cell row when using Server Side row model.
+- **Loading Component**: To customise the loading cell row when using the Server Side row model.
+- **Menu Item Component**: To customise the items displayed within Menus.
 - **Overlay Component**: To customise loading and no rows overlay components.
 - **Status Bar Component**: For custom status bar components.
 - **Tool Panel Component**: For custom tool panel components.
