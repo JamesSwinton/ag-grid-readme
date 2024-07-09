@@ -247,15 +247,12 @@ gridOptions = {
 
 AG Grid has 4 themes, each available in `light` & `dark` modes. We also supply each theme with an `auto` mode that can toggle the theme based on the users' system preferences:
 
-<p float="left" align="middle">
-  <img src="./quartz-theme.png" width="49%">
-  <img src="./material-theme.png" width="49%">
-</p>
-
-<p float="left" align="middle">
-  <img src="./alpine-theme.png" width="49%">
-  <img src="./balham-theme.png" width="49%">
-</p>
+<table>
+    <tr><th>Quartz</th><th>Material</th></tr>
+    <tr><td><a href="https://www.ag-grid.com/example/"><img src="./quartz-theme.png"></a></td><td><a href="https://www.ag-grid.com/example/?theme=material"><img src="./material-theme.png"></a></td></tr>
+    <tr><th>Alpine</th><th>Balham</th</tr>
+    <tr><td><a href="https://www.ag-grid.com/example/?theme=alpine"><img src="./alpine-theme.png"></a></td><td><a href="https://www.ag-grid.com/example/?theme=balham"><img src="./balham-theme.png"></a></td></tr>
+</table>
 
 ### Custom Themes
 
