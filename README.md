@@ -226,7 +226,7 @@ AG Grid is fully customisable, both in terms of appearance and functionality. Th
 
 You can create your own Custom Components to customise the behaviour of the grid. For example, you can customise how cells are rendered, how values are edited and also create your own filters.
 
-There are a number of different component types that you can provide to the grid, including:
+There are a number of different [Component Types](https://www.ag-grid.com/javascript-data-grid/components/) that you can provide to the grid, including:
 
 * [Cell Component](https://www.ag-grid.com/javascript-data-grid/component-cell-renderer/): To customise the contents of a cell.
 * [Header Component](https://www.ag-grid.com/javascript-data-grid/column-headers/): To customise the header of a column and column groups.
@@ -254,8 +254,6 @@ gridOptions = {
    ],
 }
 ```
-
-[Learn More](https://www.ag-grid.com/javascript-data-grid/components/)
 
 ### Themes
 
