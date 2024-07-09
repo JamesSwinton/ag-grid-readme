@@ -129,39 +129,6 @@ AG Grid is available in two versions: Community & Enterprise.
 [![Inventory](./inventory-demo.png)](https://ag-grid.com/example-inventory/)
 </details>
 
-#### Financial data example featuring live updates and sparklines.
-
-[![Finance](./finance-demo.png)](https://ag-grid.com/example-finance/)
-
-#### HR data example showing hierarchical employee data.
-
-[![HR](./hr-demo.png)](https://ag-grid.com/example-hr/)
-
-#### Inventory data example to view and manage products.
-
-[![Inventory](./inventory-demo.png)](https://ag-grid.com/example-inventory/)
-
----
-
-| Finance 🔗                                      | 
-|-------------------------------------------------|
-| [![Finance](./finance-demo.png)](https://ag-grid.com/example-finance/) |
-
-| HR 🔗                                       | 
-|---------------------------------------------|
-| [![HR](./hr-demo.png)](https://ag-grid.com/example-hr/) | 
-
-| Inventory 🔗                                            |
-|---------------------------------------------------------|
-| [![Inventory](./inventory-demo.png)](https://ag-grid.com/example-inventory/) |
-
----
-
-| Financial data example featuring live updates and sparklines.            | HR data example showing hierarchical employee data.     | Inventory data example to view and manage products.                          |
-|--------------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------|
-| [![Finance](./finance-demo.png)](https://ag-grid.com/example-finance/)   | [![HR](./hr-demo.png)](https://ag-grid.com/example-hr/) | [![Inventory](./inventory-demo.png)](https://ag-grid.com/example-inventory/) |
-
-
 ## ⚡️ Quick Start
 
 AG Grid is easy to set up - all you need to do is provide your data and define your column structure. Read on for vanilla JavaScript installation instructions, or refer to our framework-specific guides for <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-react"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="16" width="16" alt="React Logo"> React</a></strong>, <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-angular"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="16" width="16" alt="Angular Logo"> Angular</a></strong> and <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="16" width="16" alt="Vue Logo"> Vue</a></strong>.
