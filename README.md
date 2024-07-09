@@ -206,13 +206,13 @@ We also provide [Seed Projects](https://github.com/ag-grid/ag-grid-seed) to help
 
 ## 🛠️ Customisations
 
-AG Grid is fully customisable, both in terms of appearance and functionality. There are many ways in which the grid can be customised, and a selection of tools to help create those customisations:
+AG Grid is fully customisable, both in terms of appearance and functionality. There are many ways in which the grid can be customised and a selection of tools to help create those customisations.
 
 ### Custom Components
 
-You can create your own Custom Components to customise the behaviour of the grid. For example you can customise how cells are rendered, how values are edited and also create your own filters.
+You can create your own Custom Components to customise the behaviour of the grid. For example, you can customise how cells are rendered, how values are edited and also create your own filters.
 
-There are a number of different components types that you can provide to the grid, including:
+There are a number of different component types that you can provide to the grid, including:
 
 - **Cell Component**: To customise the contents of a cell.
 - **Header Component**: To customise the header of a column and column groups.
@@ -227,7 +227,7 @@ There are a number of different components types that you can provide to the gri
 - **Tool Panel Component**: For custom tool panel components.
 - **Tooltip Component**: For custom cell tooltip components.
 
-To supply a custom component to the Grid, create a direct reference to your component within the `gridOptions.columnDefs` property:
+To supply a custom cell renderer and filter components to the Grid, create a direct reference to your component within the `gridOptions.columnDefs` property:
 
 ```js
 gridOptions = {
