@@ -91,6 +91,8 @@ AG Grid is available in two versions: Community & Enterprise.
 | Accessibility                | ✅                | ✅                 |
 | Custom Components            | ✅                | ✅                 |
 | Infinite Scrolling           | ✅                | ✅                 |
+| CSV Export                   | ✅                | ✅                 |
+| Drag & Drop                  | ✅                | ✅                 |
 | Integrated Charting          | ❌                | ✅                 |
 | Row Grouping and Aggregation | ❌                | ✅                 |
 | Pivoting                     | ❌                | ✅                 |
@@ -100,6 +102,9 @@ AG Grid is available in two versions: Community & Enterprise.
 | Excel Export                 | ❌                | ✅                 |
 | Master/Detail                | ❌                | ✅                 |
 | Tree Data                    | ❌                | ✅                 |
+| Column menu                  | ❌                | ✅                 |
+| Context menu                 | ❌                | ✅                 |
+| Clipboard                    | ❌                | ✅                 |
 
 > [!IMPORTANT]
 > Visit the [License](https://www.ag-grid.com/license-pricing/) page for a full comparison.
@@ -169,32 +174,34 @@ We also provide [Seed Projects](https://github.com/ag-grid/ag-grid-seed) to help
 <details>
   <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/typescript.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;TypeScript</summary>
 
-- [Vite - TypeScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-typescript)
-- [Webpack5 - TypeScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-typescript)
+- [Vite](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-typescript)
+- [Webpack5](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-typescript)
 </details>
 
 <details>
   <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/javascript.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;JavaScript</summary>
 
-- [Webpack5 - JavaScript](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-javascript)
+- [Webpack5](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-javascript)
 </details>
 
 <details>
   <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/react.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;React</summary>
 
-- [name](link)
+- [Create React App](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/create-react-app)
+- [Vite](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-react)
 </details>
 
 <details>
   <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/angular.svg?raw=true" align="center" width="16" height="16" alt="Angular Logo">&nbsp;Angular</summary>
 
-- [name](link)
+- [Angular CLI](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/angular-cli)
 </details>
 
 <details>
   <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/vue.svg?raw=true" align="center" width="16" height="16" alt="Vue Logo">&nbsp;Vue</summary>
 
-- [name](link)
+- [Nuxt](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/nuxt-vue3)
+- [Vite](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-vue3)
 </details>
 
 ## 🛠️ Customisations
