@@ -41,7 +41,7 @@
     <br>
 </div>
 
-![Kitchen Sink Demo](./kitchen-sink-demo.png)
+![Kitchen Sink Demo](./kitchen-sink-demo.gif)
 <br><br>
 
 ## 📖 Overview
