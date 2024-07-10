@@ -210,14 +210,15 @@ We also provide [Seed Projects](https://github.com/ag-grid/ag-grid-seed) to help
 <details>
   <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/react.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;React</summary>
 
-- [Create React App](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/create-react-app)
-- [Vite](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-react)
+- [Create React App](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/create-react-app): A minimal starter setup for AG Grid built using [Create React App (CRA)](https://github.com/facebook/create-react-app).
+- [Vite](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-react): This template provides a minimal setup to get AG Grid React working in Vite with HMR and some ESLint rules.
+
 </details>
 
 <details>
   <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/angular.svg?raw=true" align="center" width="16" height="16" alt="Angular Logo">&nbsp;Angular</summary>
 
-- [Angular CLI](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/angular-cli)
+- [Angular CLI](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/angular-cli): 
 </details>
 
 <details>
