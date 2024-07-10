@@ -43,7 +43,6 @@
 
 ![Kitchen Sink Demo](./kitchen-sink-demo.gif)
 <div align="right"><span><a href="https://ag-grid.com/example/">Live Demo</a></span></div>
-<br><br>
 
 ## 📖 Overview
 
