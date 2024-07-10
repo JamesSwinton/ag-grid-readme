@@ -62,15 +62,14 @@
   - [Custom Themes](#custom-themes)
 - [🌍 Community](#-community)
   - [Tools \& Extensions](#tools--extensions)
-    - [Adaptable](#adaptable)
-    - [Astro UXDS](#astro-uxds)
   - [Showcase](#showcase)
   - [Stargazers](#stargazers)
 - [🤝 Support](#-support)
-  - [Issue Reporting](#issue-reporting)
-  - [Asking Questions](#asking-questions)
+  - [Enterprise Support](#enterprise-support)
+  - [Bug Reports](#bug-reports)
+  - [Questions](#questions)
   - [Contributing](#contributing)
-  - [License](#license)
+- [⚠️ License](#️-license)
 
 </details>
 
