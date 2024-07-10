@@ -326,105 +326,44 @@ All AG Grid themes can be customised using [CSS variables](https://www.ag-grid.c
 
 ### Tools & Extensions
 
-AG Grid has a large and active community who have created an ecosystem of 3rd party tools, extensions and utilities to help you build your next project with AG Grid, no matter which language or framework you use. Browse the examples below, or visit our [Community](https://www.ag-grid.com/community/) section to learn more.
+AG Grid has a large and active community who have created an [ecosystem of 3rd party tools, extensions and utilities](https://www.ag-grid.com/community/tools-extensions/) to help you build your next project with AG Grid, no matter which language or framework you use:
 
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/react.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;React</summary>
-
-#### Adaptable
-AdapTable for AG Grid is a powerful extension for the market-leading AG Grid Data Grid. AdapTable extends the powerful functionality provided by AG Grid to enable you to build data management applications unparalleled in power and sophistication, with features not previously available.
-
-#### Astro UXDS
-Astro UXDS is a collection of guidelines, patterns and components for designing space-based user interface applications which provides a custom `Astro` theme for AG Grid.
-
-- [name](link)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/angular.svg?raw=true" align="center" width="16" height="16" alt="Angular Logo">&nbsp;Angular</summary>
-
-- [name](link)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/typescript.svg?raw=true" align="center" width="16" height="16" alt="TypeScript Logo">&nbsp;TypeScript</summary>
-
-- [name](link)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/python.svg?raw=true" align="center" width="16" height="16" alt="Python Logo">&nbsp;Python</summary>
-
-- [Dash AG Grid](https://www.figma.com/community/file/1360600846643230092/ag-grid-design-system](https://dash.plotly.com/dash-ag-grid)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/svelte.svg?raw=true" align="center" width="16" height="16" alt="Svelte Logo">&nbsp;Svelte</summary>
-
-- [AG Grid Svelte](https://ag-grid-svelte.michael.kim/guide/overview/)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/solidjs.svg?raw=true" align="center" width="16" height="16" alt="SolidJS Logo">&nbsp;SolidJS</summary>
-
-- [name](link)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/vue.svg?raw=true" align="center" width="16" height="16" alt="Vue Logo">&nbsp;Vue</summary>
-
-- [name](link)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/.net.svg?raw=true" align="center" width="16" height="16" alt=".NET Logo">&nbsp;.NET</summary>
-
-- [name](link)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/rust.svg?raw=true" align="center" width="16" height="16" alt="Rust Logo">&nbsp;Rust</summary>
-
-- [name](link)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/laravel.svg?raw=true" align="center" width="16" height="16" alt="Laravel Logo">&nbsp;Laravel</summary>
-
-- [name](link)
-</details>
-
-[View All](/)
+<div>
+    <a href="https://www.ag-grid.com/community/tools-extensions/">
+        <span><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/community/frameworks/react.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;React</span>
+    </a> • 
+    <a href="https://www.ag-grid.com/community/tools-extensions/">
+        <span><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/community/frameworks/angular.svg?raw=true" align="center" width="16" height="16" alt="Angular Logo">&nbsp;Angular</span>
+    </a> • 
+    <a href="https://www.ag-grid.com/community/tools-extensions/">
+        <span><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/community/frameworks/typescript.svg?raw=true" align="center" width="16" height="16" alt="TypeScript Logo">&nbsp;TypeScript</span>
+    </a> • 
+    <a href="https://www.ag-grid.com/community/tools-extensions/">
+        <span><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/community/frameworks/vue.svg?raw=true" align="center" width="16" height="16" alt="Vue Logo">&nbsp;Vue</span>
+    </a> • 
+    <a href="https://www.ag-grid.com/community/tools-extensions/">
+        <span><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/community/frameworks/python.svg?raw=true" align="center" width="16" height="16" alt="Python Logo">&nbsp;Python</span>
+    </a> • 
+    <a href="https://www.ag-grid.com/community/tools-extensions/">
+        <span><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/community/frameworks/svelte.svg?raw=true" align="center" width="16" height="16" alt="Svelte Logo">&nbsp;Svelte</span>
+    </a> • 
+    <a href="https://www.ag-grid.com/community/tools-extensions/">
+        <span><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/community/frameworks/solidjs.svg?raw=true" align="center" width="16" height="16" alt="SolidJS Logo">&nbsp;SolidJS</span>
+    </a> • 
+    <a href="https://www.ag-grid.com/community/tools-extensions/">
+        <span><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/community/frameworks/.net.svg?raw=true" align="center" width="16" height="16" alt=".NET Logo">&nbsp;.NET</span>
+    </a> • 
+    <a href="https://www.ag-grid.com/community/tools-extensions/">
+        <span><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/community/frameworks/rust.svg?raw=true" align="center" width="16" height="16" alt="Rust Logo">&nbsp;Rust</span>
+    </a> • 
+    <a href="https://www.ag-grid.com/community/tools-extensions/">
+        <span><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/community/frameworks/laravel.svg?raw=true" align="center" width="16" height="16" alt="Laravel Logo">&nbsp;Laravel</span>
+    </a>
+</div>
 
 ### Showcase
 
-AG Grid is used by 100,000's of developers across the world, from almost every industry. Whilst a lot of these projects are private, we've curated a selection of open-source projects from a variety of industries where household names rely on AG Grid, including [J.P.Morgan](https://www.saltdesignsystem.com/salt/components/ag-grid-theme/examples), [MongoDB](https://www.mongodb.com/products/tools/compass) and [Nasa](https://nasa-ammos.github.io/aerie-docs/).
-
-<details>
-  <summary>🏦&nbsp;Finance</summary>
-
-- [OpenBB Terminal Pro](https://docs.openbb.co/pro/widgets/tabular-data)
-</details>
-
-<details>
-  <summary>🤖&nbsp;ML/AI</summary>
-
-- [MLFlow](https://mlflow.org/)
-</details>
-
-<details>
-  <summary>🫙&nbsp;Database</summary>
-
-- [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
-</details>
-
-<details>
-  <summary>🚀&nbsp;Aeronautics</summary>
-
-- [NASA](https://nasa-ammos.github.io/aerie-docs/)
-</details>
-
-[View All](/)
+AG Grid is used by 100,000's of developers across the world, from almost every industry. Whilst most of these projects are private, we've curated a selection of open-source projects from different industries where household names rely on AG Grid, including **J.P.Morgan**, **MongoDB** and **NASA**. Visit our [Community Showcase](https://www.ag-grid.com/community/showcase/) page to learn more.
 
 ### Stargazers
 
