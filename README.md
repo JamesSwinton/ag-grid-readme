@@ -303,7 +303,7 @@ gridOptions = {
 
 ### Themes
 
-AG Grid has 4 themes, each available in `light` & `dark` modes. We also supply each theme with an `auto` mode that can toggle the theme based on the users' system preferences:
+AG Grid has 4 [themes](https://ag-grid.com/vue-data-grid/global-style/), each available in `light` & `dark` modes. We also supply each theme with an `auto` mode that can toggle the theme based on the users' system preferences:
 
 <table>
     <tr><th>Quartz</th><th>Material</th></tr>
@@ -311,6 +311,12 @@ AG Grid has 4 themes, each available in `light` & `dark` modes. We also supply e
     <tr><th>Alpine</th><th>Balham</th</tr>
     <tr><td><a href="https://www.ag-grid.com/example/?theme=alpine"><img src="./alpine-theme.png"></a></td><td><a href="https://www.ag-grid.com/example/?theme=balham"><img src="./balham-theme.png"></a></td></tr>
 </table>
+
+To apply a theme, add the relevant CSS Class to the Data Grid container. For example, to apply the Quartz theme, use the CSS class `ag-theme-quartz`:
+
+```js
+<div id="myGrid" style="height: 150px; width: 600px" class="ag-theme-quartz"></div>
+```
 
 ### Custom Themes
 
