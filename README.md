@@ -112,6 +112,8 @@ AG Grid is available in two versions: Community & Enterprise.
 
 ### Examples
 
+We've created several demos to showcase AG Grid's versatility across different use cases. See them in action below, or interact with them on our [Demo](https://www.ag-grid.com/example/) page.
+
 <details open>
   <summary>🏦 <b>Financial Demo</b></summary>
   <br>
