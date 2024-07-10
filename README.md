@@ -397,9 +397,13 @@ Look for similar problems on [StackOverflow](https://stackoverflow.com/questions
 
 AG Grid is developed by a team of co-located developers in London. If you want to join the team send your application to info@ag-grid.com.
 
-### License
+## ⚠️ License
 
-This project is licensed under the MIT license. See the [LICENSE file](./LICENSE.txt) for more info.
+`ag-grid-community` is licensed under the **MIT** license. 
+
+`ag-grid-enterprise` has a **Commercial** license. 
+
+See the [LICENSE file](./LICENSE.txt) for more info.
 
 <div><h2><img vertical-align="middle" width="32" height="32" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-BrandMark_Light-Theme.svg?raw=true" alt="AG ChartsLogo">AG Charts</h2></div>
 
