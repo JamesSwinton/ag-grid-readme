@@ -442,13 +442,13 @@ Founded in 2016, AG Grid has seen a steady rise in popularity and is now the mar
 
 AG Grid Enterprise customers have access to dedicated support via [ZenDesk](https://ag-grid.zendesk.com/hc/en-us), which is monitored by our engineering teams.
 
-### Found a bug?
+### Bug Reports
 
 If you have found a bug, please report it in this repository's [issues](https://github.com/ag-grid/ag-grid/issues) section.
 
 <img src="https://img.shields.io/github/issues-closed/ag-grid/ag-grid?style=for-the-badge&color=%233d8c40" alt="GitHub Issues" height="26">
 
-### Have a question?
+### Questions
 
 Look for similar problems on [StackOverflow](https://stackoverflow.com/questions/tagged/ag-grid) using the `ag-grid` tag. If nothing seems related, post a new message there. Please do not use GitHub issues to ask questions.
 
