@@ -113,31 +113,36 @@ AG Grid is available in two versions: Community & Enterprise.
 ### Examples
 
 <details open>
-  <summary><strong>Financial data example featuring live updates and sparklines:</strong></summary>
+  <summary>🏦 <b>Financial Demo</b></summary>
   <br>
+  <p>Financial data example featuring live updates and sparklines:</p>
   <a href="https://ag-grid.com/example-finance/">
     <img src="./finance-demo.gif" alt="Finance">
   </a>
   <br>
-  <div align="right"><span><a href="https://ag-grid.com/example-finance/">View Demo 🔗</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/finance">Source Code 🧑‍💻</a></span></div>
-</details>
+  <div align="right"><span><a href="https://ag-grid.com/example-finance/">View Demo 💻</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/finance">Source Code 🧑‍💻</a></span></div>
 <br>
+</details>
 <details>
-  <summary>🔗 <strong>Inventory data example to view and manage products:</strong></summary>
+  <summary>📦 <b>Inventory Demo</b></summary>
   <br>
+  <p>Inventory data example to view and manage products:</p>
   <a href="https://ag-grid.com/example-inventory/">
     <img src="./inventory-demo.gif" alt="Inventory">
   </a>
-  <div align="right"><span><a href="https://ag-grid.com/example-inventory/">View Demo 🔗</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/inventory">Source Code 🧑‍💻</a></span></div>
-</details>
+  <div align="right"><span><a href="https://ag-grid.com/example-inventory/">View Demo 💻</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/inventory">Source Code 🧑‍💻</a></span></div>
 <br>
+</details>
 <details>
-  <summary>🔗 <strong>HR data example showing hierarchical employee data:</strong></summary>
+    
+  <summary>🧑‍💼 <b>HR Demo</b></summary>
   <br>
+  <p>HR data example showing hierarchical employee data:</p>
   <a href="https://ag-grid.com/example-hr/">
     <img src="./hr-demo.gif" alt="HR">
   </a>
-  <div align="right"><span><a href="https://ag-grid.com/example-hr/">View Demo 🔗</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/hr">Source Code 🧑‍💻</a></span></div>
+  <div align="right"><span><a href="https://ag-grid.com/example-hr/">View Demo 💻</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/hr">Source Code 🧑‍💻</a></span></div>
+<br>
 </details>
 
 ## ⚡️ Quick Start
@@ -358,30 +363,30 @@ Astro UXDS is a collection of guidelines, patterns and components for designing 
 
 ### Showcase
 
-AG Grid is used by 100,000's of developers across the world, from almost every industry. Whilst a lot of these projects are private, we've curated a selection of open-source projects from a variety of industries where household names rely on AG Grid, including [J.P.Morgan](), [MongoDB]() and [Nasa]().
+AG Grid is used by 100,000's of developers across the world, from almost every industry. Whilst a lot of these projects are private, we've curated a selection of open-source projects from a variety of industries where household names rely on AG Grid, including [J.P.Morgan](https://www.saltdesignsystem.com/salt/components/ag-grid-theme/examples), [MongoDB](https://www.mongodb.com/products/tools/compass) and [Nasa](https://nasa-ammos.github.io/aerie-docs/).
 
 <details>
   <summary>🏦&nbsp;Finance</summary>
 
-- [name](link)
+- [OpenBB Terminal Pro](https://docs.openbb.co/pro/widgets/tabular-data)
 </details>
 
 <details>
   <summary>🤖&nbsp;ML/AI</summary>
 
-- [name](link)
+- [MLFlow](https://mlflow.org/)
 </details>
 
 <details>
   <summary>🫙&nbsp;Database</summary>
 
-- [name](link)
+- [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
 </details>
 
 <details>
   <summary>🚀&nbsp;Aeronautics</summary>
 
-- [name](link)
+- [NASA](https://nasa-ammos.github.io/aerie-docs/)
 </details>
 
 [View All](/)
