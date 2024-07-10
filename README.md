@@ -112,10 +112,11 @@ AG Grid is available in two versions: Community & Enterprise.
 ### Examples
 
 <details open>
-  <summary>🔗 <strong>Financial data example featuring live updates and sparklines:</strong></summary>
+  <summary><strong>Financial data example featuring live updates and sparklines:</strong></summary>
   <br>
   <a href="https://ag-grid.com/example-finance/">
     <img src="./finance-demo.png" alt="Finance">
+    <p align="right">View Demo 🔗</p>
   </a>
 </details>
 
@@ -124,6 +125,7 @@ AG Grid is available in two versions: Community & Enterprise.
   <br>
   <a href="https://ag-grid.com/example-hr/">
     <img src="./hr-demo.png" alt="HR">
+    <p align="right">View Demo 🔗</p>
   </a>
 </details>
 
@@ -132,6 +134,7 @@ AG Grid is available in two versions: Community & Enterprise.
   <br>
   <a href="https://ag-grid.com/example-inventory/">
     <img src="./inventory-demo.png" alt="Inventory">
+    <p align="right">View Demo 🔗</p>
   </a>
 </details>
 
