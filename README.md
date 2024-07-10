@@ -116,8 +116,8 @@ AG Grid is available in two versions: Community & Enterprise.
   <br>
   <a href="https://ag-grid.com/example-finance/">
     <img src="./finance-demo.png" alt="Finance">
-    <p align="right">View Demo 🔗</p>
   </a>
+  <div align="right"><span><a href="https://ag-grid.com/example-finance/">View Demo 🔗</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/finance">Source Code 🧑‍💻</a></span></div>
 </details>
 
 <details>
@@ -125,8 +125,8 @@ AG Grid is available in two versions: Community & Enterprise.
   <br>
   <a href="https://ag-grid.com/example-hr/">
     <img src="./hr-demo.png" alt="HR">
-    <p align="right">View Demo 🔗</p>
   </a>
+  <div align="right"><span><a href="https://ag-grid.com/example-hr/">View Demo 🔗</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/hr">Source Code 🧑‍💻</a></span></div>
 </details>
 
 <details>
@@ -134,8 +134,8 @@ AG Grid is available in two versions: Community & Enterprise.
   <br>
   <a href="https://ag-grid.com/example-inventory/">
     <img src="./inventory-demo.png" alt="Inventory">
-    <p align="right">View Demo 🔗</p>
   </a>
+  <div align="right"><span><a href="https://ag-grid.com/example-inventory/">View Demo 🔗</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/inventory">Source Code 🧑‍💻</a></span></div>
 </details>
 
 ## ⚡️ Quick Start
