@@ -42,6 +42,7 @@
 </div>
 
 ![Kitchen Sink Demo](./kitchen-sink-demo.gif)
+<div align="right"><span><a href="https://ag-grid.com/example/">Live Demo 💻</a></span></div>
 <br><br>
 
 ## 📖 Overview
@@ -122,7 +123,7 @@ We've created several demos to showcase AG Grid's versatility across different u
     <img src="./finance-demo.gif" alt="Finance">
   </a>
   <br>
-  <div align="right"><span><a href="https://ag-grid.com/example-finance/">View Demo 💻</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/finance">Source Code 🧑‍💻</a></span></div>
+  <div align="right"><span><a href="https://ag-grid.com/example-finance/">Live Demo 💻</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/finance">Source Code 🧑‍💻</a></span></div>
 <br>
 </details>
 <details>
@@ -132,7 +133,7 @@ We've created several demos to showcase AG Grid's versatility across different u
   <a href="https://ag-grid.com/example-inventory/">
     <img src="./inventory-demo.gif" alt="Inventory">
   </a>
-  <div align="right"><span><a href="https://ag-grid.com/example-inventory/">View Demo 💻</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/inventory">Source Code 🧑‍💻</a></span></div>
+  <div align="right"><span><a href="https://ag-grid.com/example-inventory/">Live Demo 💻</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/inventory">Source Code 🧑‍💻</a></span></div>
 <br>
 </details>
 <details>
@@ -143,7 +144,7 @@ We've created several demos to showcase AG Grid's versatility across different u
   <a href="https://ag-grid.com/example-hr/">
     <img src="./hr-demo.gif" alt="HR">
   </a>
-  <div align="right"><span><a href="https://ag-grid.com/example-hr/">View Demo 💻</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/hr">Source Code 🧑‍💻</a></span></div>
+  <div align="right"><span><a href="https://ag-grid.com/example-hr/">Live Demo 💻</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/hr">Source Code 🧑‍💻</a></span></div>
 <br>
 </details>
 
