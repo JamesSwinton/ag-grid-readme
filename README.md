@@ -57,6 +57,9 @@
   - [Setup](#setup)
   - [Seed Projects](#seed-projects)
 - [🛠️ Customisations](#️-customisations)
+  - [Custom Components](#custom-components)
+  - [Themes](#themes)
+  - [Custom Themes](#custom-themes)
 - [🌍 Community](#-community)
   - [Tools \& Extensions](#tools--extensions)
     - [Adaptable](#adaptable)
@@ -68,8 +71,6 @@
   - [Asking Questions](#asking-questions)
   - [Contributing](#contributing)
   - [License](#license)
-- [📢 Socials](#-socials)
-- <p><img width="24" height="24" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-BrandMark_Light-Theme.svg?raw=true" alt="AG ChartsLogo"><a href="./#g-charts">AG Charts</a></p>
 
 </details>
 
@@ -115,27 +116,28 @@ AG Grid is available in two versions: Community & Enterprise.
   <summary><strong>Financial data example featuring live updates and sparklines:</strong></summary>
   <br>
   <a href="https://ag-grid.com/example-finance/">
-    <img src="./finance-demo.png" alt="Finance">
+    <img src="./finance-demo.gif" alt="Finance">
   </a>
+  <br>
   <div align="right"><span><a href="https://ag-grid.com/example-finance/">View Demo 🔗</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/finance">Source Code 🧑‍💻</a></span></div>
 </details>
-
-<details>
-  <summary>🔗 <strong>HR data example showing hierarchical employee data:</strong></summary>
-  <br>
-  <a href="https://ag-grid.com/example-hr/">
-    <img src="./hr-demo.png" alt="HR">
-  </a>
-  <div align="right"><span><a href="https://ag-grid.com/example-hr/">View Demo 🔗</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/hr">Source Code 🧑‍💻</a></span></div>
-</details>
-
+<br>
 <details>
   <summary>🔗 <strong>Inventory data example to view and manage products:</strong></summary>
   <br>
   <a href="https://ag-grid.com/example-inventory/">
-    <img src="./inventory-demo.png" alt="Inventory">
+    <img src="./inventory-demo.gif" alt="Inventory">
   </a>
   <div align="right"><span><a href="https://ag-grid.com/example-inventory/">View Demo 🔗</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/inventory">Source Code 🧑‍💻</a></span></div>
+</details>
+<br>
+<details>
+  <summary>🔗 <strong>HR data example showing hierarchical employee data:</strong></summary>
+  <br>
+  <a href="https://ag-grid.com/example-hr/">
+    <img src="./hr-demo.gif" alt="HR">
+  </a>
+  <div align="right"><span><a href="https://ag-grid.com/example-hr/">View Demo 🔗</a></span>&nbsp;&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/hr">Source Code 🧑‍💻</a></span></div>
 </details>
 
 ## ⚡️ Quick Start
