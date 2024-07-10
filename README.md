@@ -264,40 +264,6 @@ We also provide [Seed Projects](https://github.com/ag-grid/ag-grid-seed) to help
   </tbody>
 </table>
 
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/typescript.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;TypeScript</summary>
-
-- [Vite](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-typescript)
-- [Webpack5](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-typescript)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/javascript.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;JavaScript</summary>
-
-- [Webpack5](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/webpack5-javascript)
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/react.svg?raw=true" align="center" width="16" height="16" alt="React Logo">&nbsp;React</summary>
-
-- [Create React App](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/create-react-app): A minimal starter setup for AG Grid built using [Create React App (CRA)](https://github.com/facebook/create-react-app).
-- [Vite](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-react): This template provides a minimal setup to get AG Grid React working in Vite with HMR and some ESLint rules.
-
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/angular.svg?raw=true" align="center" width="16" height="16" alt="Angular Logo">&nbsp;Angular</summary>
-
-- [Angular CLI](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/angular-cli): 
-</details>
-
-<details>
-  <summary><img src="https://github.com/ag-grid/ag-grid/blob/a13bc308b641a263e3d531b2ad4ff1f938e7b342/documentation/ag-grid-docs/public/community/frameworks/vue.svg?raw=true" align="center" width="16" height="16" alt="Vue Logo">&nbsp;Vue</summary>
-
-- [Nuxt](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/nuxt-vue3): Contains a minimal starter setup using Nuxt 3, a free and open-source framework with an intuitive and extendable way to create type-safe, performant and production-grade full-stack web applications and websites with Vue.js.
-- [Vite](https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-vue3): This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>`, a compile-time syntactic sugar for using Composition API inside Single-File Components (SFCs).
-</details>
-
 ## 🛠️ Customisations
 
 AG Grid is fully customisable, both in terms of appearance and functionality. There are many ways in which the grid can be customised and a selection of tools to help create those customisations.
