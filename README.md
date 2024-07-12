@@ -141,7 +141,7 @@ We've created several demos to showcase AG Grid's rich feature set across differ
   <a href="https://ag-grid.com/example-inventory/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
     <picture>
       <source srcset="./inventory-demo-dark.gif" media="(prefers-color-scheme: light)">
-      <source srcset="../inventory-demo-light.gif" media="(prefers-color-scheme: dark)">
+      <source srcset="./inventory-demo-light.gif" media="(prefers-color-scheme: dark)">
       <img src="./inventory-demo-dark.gif" alt="Finance">
     </picture>
   </a>
