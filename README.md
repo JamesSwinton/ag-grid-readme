@@ -44,7 +44,7 @@
 <picture>
     <source srcset="./kitchen-sink-demo-light.gif" media="(prefers-color-scheme: light)">
     <source srcset="./kitchen-sink-demo-dark.gif" media="(prefers-color-scheme: dark)">
-    <img src="./kitchen-sink-demo.gif" alt="Kitchen Sink Demo">
+    <img src="./kitchen-sink-demo-dark.gif" alt="Kitchen Sink Demo">
 </picture>
 <div align="right"><span><a href="https://ag-grid.com/example/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Live Demo</a></span></div>
 
@@ -124,7 +124,11 @@ We've created several demos to showcase AG Grid's rich feature set across differ
   <br>
   <p>Financial data example featuring live updates and sparklines:</p>
   <a href="https://ag-grid.com/example-finance/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
-    <img src="./finance-demo.gif" alt="Finance">
+    <picture>
+      <source srcset="./finance-demo-light.gif" media="(prefers-color-scheme: light)">
+      <source srcset="./finance-demo-dark.gif" media="(prefers-color-scheme: dark)">
+      <img src="./finance-demo.gif" alt="Finance">
+    </picture>
   </a>
   <br>
   <div align="right"><span><a href="https://ag-grid.com/example-finance/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Live Demo</a></span>&nbsp;•&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/finance">Source Code</a></span></div>
