@@ -105,13 +105,15 @@ AG Grid is available in two versions: Community & Enterprise.
 | Column menu                  | ❌                | ✅                 |
 | Context menu                 | ❌                | ✅                 |
 | Clipboard                    | ❌                | ✅                 |
+| Support                      | ❌                | ✅                 |
+| Perpetual License            | ❌                | ✅                 |
 
 > [!IMPORTANT]
-> Visit the [License](https://www.ag-grid.com/license-pricing/) page for a full comparison.
+> Visit the [Pricing](https://www.ag-grid.com/license-pricing/) page for a full comparison.
 
 ### Examples
 
-We've created several demos to showcase AG Grid's versatility across different use cases. See them in action below, or interact with them on our [Demo](https://www.ag-grid.com/example/) page.
+We've created several demos to showcase AG Grid's rich feature set across different use cases. See them in action below, or interact with them on our [Demo](https://www.ag-grid.com/example/) page.
 
 <details open>
   <summary>🏦 <b>Financial Demo</b></summary>
@@ -148,7 +150,7 @@ We've created several demos to showcase AG Grid's versatility across different u
 
 ## ⚡️ Quick Start
 
-AG Grid is easy to set up - all you need to do is provide your data and define your column structure. Read on for vanilla JavaScript installation instructions, or refer to our framework-specific guides for <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-react"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="16" width="16" alt="React Logo"> React</a></strong>, <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-angular"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="16" width="16" alt="Angular Logo"> Angular</a></strong> and <strong><a href="https://github.com/ag-grid/ag-grid/tree/latest/packages/ag-grid-vue"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="16" width="16" alt="Vue Logo"> Vue</a></strong>.
+AG Grid is easy to set up - all you need to do is provide your data and define your column structure. Read on for vanilla JavaScript installation instructions, or refer to our framework-specific guides for <strong><a href="https://www.ag-grid.com/react-data-grid/getting-started/"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="16" width="16" alt="React Logo"> React</a></strong>, <strong><a href="https://www.ag-grid.com/angular-data-grid/getting-started/"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="16" width="16" alt="Angular Logo"> Angular</a></strong> and <strong><a href="https://www.ag-grid.com/vue-data-grid/getting-started/"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="16" width="16" alt="Vue Logo"> Vue</a></strong>.
 
 ### Installation
 
@@ -249,13 +251,13 @@ We also provide [Seed Projects](https://github.com/ag-grid/ag-grid-seed) to help
       <td><a href="https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/modules/angular-cli">Modules</a></td>
     </tr>
     <tr>
-      <td>Vue3</td>
+      <td>Nuxt</td>
       <td align="middle"><img width="22" height="22" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" alt="Vue3 Logo"></td>
       <td><a href="https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/nuxt-vue3">Packages</a></td>
       <td><a href="https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/modules/nuxt-vue3">Modules</a></td>
     </tr>
     <tr>
-      <td>Vue3</td>
+      <td>Vite</td>
       <td align="middle"><img width="22" height="22" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" alt="Vue3 Logo"></td>
       <td><a href="https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/packages/vite-vue3">Packages</a></td>
       <td><a href="https://github.com/ag-grid/ag-grid-seed/tree/main/enterprise/modules/vite-vue3">Modules</a></td>
@@ -306,9 +308,9 @@ AG Grid has 4 [themes](https://ag-grid.com/vue-data-grid/global-style/), each av
 
 <table>
     <tr><th>Quartz</th><th>Material</th></tr>
-    <tr><td><a href="https://www.ag-grid.com/example/"><img src="./quartz-theme.png"></a></td><td><a href="https://www.ag-grid.com/example/?theme=material"><img src="./material-theme.png"></a></td></tr>
+    <tr><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./quartz-theme.png"></a></td><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./material-theme.png"></a></td></tr>
     <tr><th>Alpine</th><th>Balham</th</tr>
-    <tr><td><a href="https://www.ag-grid.com/example/?theme=alpine"><img src="./alpine-theme.png"></a></td><td><a href="https://www.ag-grid.com/example/?theme=balham"><img src="./balham-theme.png"></a></td></tr>
+    <tr><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./alpine-theme.png"></a></td><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./balham-theme.png"></a></td></tr>
 </table>
 
 To apply a theme, add the relevant CSS Class to the Data Grid container. For example, to apply the Quartz theme, use the CSS class `ag-theme-quartz`:
