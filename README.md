@@ -86,31 +86,30 @@ AG Grid is available in two versions: Community & Enterprise.
 
 | Feature                      | AG Grid Community | AG Grid Enterprise |
 | ---------------------------- | ----------------- | ------------------ |
+| Filtering                    | ✅                | ✅ (Advanced)      |
 | Sorting                      | ✅                | ✅                 |
-| Filtering                    | ✅                | ✅                 |
-| Pagination                   | ✅                | ✅                 |
 | Cell Editing                 | ✅                | ✅                 |
+| CSV Export                   | ✅                | ✅                 |
+| Drag & Drop                  | ✅                | ✅                 |
 | Themes and Styling           | ✅                | ✅                 |
 | Selection                    | ✅                | ✅                 |
 | Accessibility                | ✅                | ✅                 |
-| Custom Components            | ✅                | ✅                 |
 | Infinite Scrolling           | ✅                | ✅                 |
-| CSV Export                   | ✅                | ✅                 |
-| Drag & Drop                  | ✅                | ✅                 |
+| Pagination                   | ✅                | ✅                 |
+| Server-Side Data             | ✅                | ✅ (Advanced)      |
+| Custom Components            | ✅                | ✅                 |
 | Integrated Charting          | ❌                | ✅                 |
+| Range Selection              | ❌                | ✅                 |
 | Row Grouping and Aggregation | ❌                | ✅                 |
 | Pivoting                     | ❌                | ✅                 |
-| Range Selection              | ❌                | ✅                 |
-| Advanced Filtering           | ❌                | ✅                 |
-| Server-Side Row Model        | ❌                | ✅                 |
 | Excel Export                 | ❌                | ✅                 |
+| Clipboard Operations         | ❌                | ✅                 |
 | Master/Detail                | ❌                | ✅                 |
 | Tree Data                    | ❌                | ✅                 |
-| Column menu                  | ❌                | ✅                 |
-| Context menu                 | ❌                | ✅                 |
-| Clipboard                    | ❌                | ✅                 |
+| Column Menu                  | ❌                | ✅                 |
+| Context Menu                 | ❌                | ✅                 |
+| Tool Panels                  | ❌                | ✅                 |
 | Support                      | ❌                | ✅                 |
-| Perpetual License            | ❌                | ✅                 |
 
 > [!IMPORTANT]
 > Visit the [Pricing](https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) page for a full comparison.
