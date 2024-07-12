@@ -127,7 +127,7 @@ We've created several demos to showcase AG Grid's rich feature set across differ
     <picture>
       <source srcset="./finance-demo-light.gif" media="(prefers-color-scheme: light)">
       <source srcset="./finance-demo-dark.gif" media="(prefers-color-scheme: dark)">
-      <img src="./finance-demo.gif" alt="Finance">
+      <img src="./finance-demo-dark.gif" alt="Finance">
     </picture>
   </a>
   <br>
@@ -139,7 +139,11 @@ We've created several demos to showcase AG Grid's rich feature set across differ
   <br>
   <p>Inventory data example to view and manage products:</p>
   <a href="https://ag-grid.com/example-inventory/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
-    <img src="./inventory-demo.gif" alt="Inventory">
+    <picture>
+      <source srcset="./inventory-demo-dark.gif" media="(prefers-color-scheme: light)">
+      <source srcset="../inventory-demo-light.gif" media="(prefers-color-scheme: dark)">
+      <img src="./inventory-demo-dark.gif" alt="Finance">
+    </picture>
   </a>
   <div align="right"><span><a href="https://ag-grid.com/example-inventory/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Live Demo</a></span>&nbsp;•&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/inventory">Source Code</a></span></div>
 <br>
@@ -150,7 +154,11 @@ We've created several demos to showcase AG Grid's rich feature set across differ
   <br>
   <p>HR data example showing hierarchical employee data:</p>
   <a href="https://ag-grid.com/example-hr/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
-    <img src="./hr-demo.gif" alt="HR">
+    <picture>
+      <source srcset="./hr-demo-light.gif" media="(prefers-color-scheme: light)">
+      <source srcset="./hr-demo-dark.gif" media="(prefers-color-scheme: dark)">
+      <img src="./hr-demo-dark.gif" alt="Finance">
+    </picture>
   </a>
   <div align="right"><span><a href="https://ag-grid.com/example-hr/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Live Demo</a></span>&nbsp;•&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/hr">Source Code</a></span></div>
 <br>
