@@ -308,7 +308,7 @@ AG Grid has 4 [themes](https://ag-grid.com/vue-data-grid/global-style/), each av
 
 <table>
     <tr><th>Quartz</th><th>Material</th></tr>
-    <tr><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./quartz-theme.png"></a></td><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./material-theme.png"></a></td></tr>
+    <tr><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./quartz-theme1.png"></a></td><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./material-theme.png"></a></td></tr>
     <tr><th>Alpine</th><th>Balham</th</tr>
     <tr><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./alpine-theme.png"></a></td><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./balham-theme.png"></a></td></tr>
 </table>
