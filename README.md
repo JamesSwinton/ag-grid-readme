@@ -150,7 +150,23 @@ We've created several demos to showcase AG Grid's rich feature set across differ
 
 ## ⚡️ Quick Start
 
-AG Grid is easy to set up - all you need to do is provide your data and define your column structure. Read on for vanilla JavaScript installation instructions, or refer to our framework-specific guides for <strong><a href="https://www.ag-grid.com/react-data-grid/getting-started/"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="16" width="16" alt="React Logo"> React</a></strong>, <strong><a href="https://www.ag-grid.com/angular-data-grid/getting-started/"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="16" width="16" alt="Angular Logo"> Angular</a></strong> and <strong><a href="https://www.ag-grid.com/vue-data-grid/getting-started/"><img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="16" width="16" alt="Vue Logo"> Vue</a></strong>.
+AG Grid is easy to set up - all you need to do is provide your data and define your column structure. Read on for vanilla JavaScript installation instructions, or refer to our framework-specific guides for 
+<strong>
+    <a href="https://www.ag-grid.com/react-data-grid/getting-started/">
+        <img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="16" width="16" alt="React Logo"> React
+    </a>
+</strong>, 
+<strong>
+    <a href="https://www.ag-grid.com/angular-data-grid/getting-started/">
+        <img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="16" width="16" alt="Angular Logo"> Angular
+    </a>
+</strong> and 
+<strong>
+    <a href="https://www.ag-grid.com/vue-data-grid/getting-started/">
+        <img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="16" width="16" alt="Vue Logo"> Vue.
+    </a>
+</strong>
+
 
 ### Installation
 
@@ -307,10 +323,54 @@ gridOptions = {
 AG Grid has 4 [themes](https://ag-grid.com/vue-data-grid/global-style/), each available in `light` & `dark` modes. We also supply each theme with an `auto` mode that can toggle the theme based on the users' system preferences:
 
 <table>
-    <tr><th>Quartz</th><th>Material</th></tr>
-    <tr><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./quartz-theme.png"></a></td><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./material-theme.png"></a></td></tr>
-    <tr><th>Alpine</th><th>Balham</th</tr>
-    <tr><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./alpine-theme.png"></a></td><td><a href="https://www.ag-grid.com/javascript-data-grid/themes/"><img src="./balham-theme.png"></a></td></tr>
+    <tr>
+        <th>Quartz</th>
+        <th>Material</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.ag-grid.com/javascript-data-grid/themes/">
+                <picture>
+                    <source srcset="./quartz-theme-light.png" media="(prefers-color-scheme: light)">
+                    <source srcset="./quartz-theme.png" media="(prefers-color-scheme: dark)">
+                    <img src="./quartz-theme.png" alt="Quartz Theme">
+                </picture>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.ag-grid.com/javascript-data-grid/themes/">
+                <picture>
+                    <source srcset="./material-theme-light.png" media="(prefers-color-scheme: light)">
+                    <source srcset="./material-theme.png" media="(prefers-color-scheme: dark)">
+                    <img src="./material-theme.png" alt="Material Theme">
+                </picture>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <th>Alpine</th>
+        <th>Balham</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.ag-grid.com/javascript-data-grid/themes/">
+                <picture>
+                    <source srcset="./alpine-theme-light.png" media="(prefers-color-scheme: light)">
+                    <source srcset="./alpine-theme.png" media="(prefers-color-scheme: dark)">
+                    <img src="./alpine-theme.png" alt="Alpine Theme">
+                </picture>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.ag-grid.com/javascript-data-grid/themes/">
+                <picture>
+                    <source srcset="./balham-theme-light.png" media="(prefers-color-scheme: light)">
+                    <source srcset="./balham-theme.png" media="(prefers-color-scheme: dark)">
+                    <img src="./balham-theme.png" alt="Balham Theme">
+                </picture>
+            </a>
+        </td>
+    </tr>
 </table>
 
 To apply a theme, add the relevant CSS Class to the Data Grid container. For example, to apply the Quartz theme, use the CSS class `ag-theme-quartz`:
