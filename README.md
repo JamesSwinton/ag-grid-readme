@@ -41,7 +41,11 @@
     <br>
 </div>
 
-![Kitchen Sink Demo](./kitchen-sink-demo.gif)
+<picture>
+    <source srcset="./kitchen-sink-demo-light.gif" media="(prefers-color-scheme: light)">
+    <source srcset="./kitchen-sink-demo-dark.gif" media="(prefers-color-scheme: dark)">
+    <img src="./kitchen-sink-demo.gif" alt="Kitchen Sink Demo">
+</picture>
 <div align="right"><span><a href="https://ag-grid.com/example/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Live Demo</a></span></div>
 
 ## 📖 Overview
