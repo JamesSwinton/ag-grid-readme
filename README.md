@@ -8,7 +8,7 @@
       <img width="100%" alt="AG Grid Logo" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-Grid-Logo_Dark-Theme.svg?raw=true"/>
     </picture>
     <div align="center">
-        <h4><a href="https://www.ag-grid.com">🌐 Website</a> • <a href="https://www.ag-grid.com/javascript-data-grid/getting-started/">📖 Documentation</a> • <a href="https://www.ag-grid.com/community">🏘️ Community</a></h4>
+        <h4><a href="https://www.ag-grid.com?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">🌐 Website</a> • <a href="https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">📖 Documentation</a> • <a href="https://www.ag-grid.com/community?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">🏘️ Community</a></h4>
     </div>
     <br>
     <a href="https://github.com/ag-grid/ag-grid/releases">
@@ -119,21 +119,21 @@ We've created several demos to showcase AG Grid's rich feature set across differ
   <summary>🏦 <b>Financial Demo</b></summary>
   <br>
   <p>Financial data example featuring live updates and sparklines:</p>
-  <a href="https://ag-grid.com/example-finance/">
+  <a href="https://ag-grid.com/example-finance/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
     <img src="./finance-demo.gif" alt="Finance">
   </a>
   <br>
-  <div align="right"><span><a href="https://ag-grid.com/example-finance/">Live Demo</a></span>&nbsp;•&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/finance">Source Code</a></span></div>
+  <div align="right"><span><a href="https://ag-grid.com/example-finance/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Live Demo</a></span>&nbsp;•&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/finance">Source Code</a></span></div>
 <br>
 </details>
 <details>
   <summary>📦 <b>Inventory Demo</b></summary>
   <br>
   <p>Inventory data example to view and manage products:</p>
-  <a href="https://ag-grid.com/example-inventory/">
+  <a href="https://ag-grid.com/example-inventory/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
     <img src="./inventory-demo.gif" alt="Inventory">
   </a>
-  <div align="right"><span><a href="https://ag-grid.com/example-inventory/">Live Demo</a></span>&nbsp;•&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/inventory">Source Code</a></span></div>
+  <div align="right"><span><a href="https://ag-grid.com/example-inventory/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Live Demo</a></span>&nbsp;•&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/inventory">Source Code</a></span></div>
 <br>
 </details>
 <details>
@@ -141,10 +141,10 @@ We've created several demos to showcase AG Grid's rich feature set across differ
   <summary>🧑‍💼 <b>HR Demo</b></summary>
   <br>
   <p>HR data example showing hierarchical employee data:</p>
-  <a href="https://ag-grid.com/example-hr/">
+  <a href="https://ag-grid.com/example-hr/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
     <img src="./hr-demo.gif" alt="HR">
   </a>
-  <div align="right"><span><a href="https://ag-grid.com/example-hr/">Live Demo</a></span>&nbsp;•&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/hr">Source Code</a></span></div>
+  <div align="right"><span><a href="https://ag-grid.com/example-hr/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Live Demo</a></span>&nbsp;•&nbsp;<span><a href="https://github.com/ag-grid/ag-grid-demos/tree/main/hr">Source Code</a></span></div>
 <br>
 </details>
 
@@ -152,17 +152,17 @@ We've created several demos to showcase AG Grid's rich feature set across differ
 
 AG Grid is easy to set up - all you need to do is provide your data and define your column structure. Read on for vanilla JavaScript installation instructions, or refer to our framework-specific guides for 
 <strong>
-    <a href="https://www.ag-grid.com/react-data-grid/getting-started/">
+    <a href="https://www.ag-grid.com/react-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
         <img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/react.svg?raw=true" height="16" width="16" alt="React Logo"> React
     </a>
 </strong>, 
 <strong>
-    <a href="https://www.ag-grid.com/angular-data-grid/getting-started/">
+    <a href="https://www.ag-grid.com/angular-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
         <img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/angular.svg?raw=true" height="16" width="16" alt="Angular Logo"> Angular
     </a>
 </strong> and 
 <strong>
-    <a href="https://www.ag-grid.com/vue-data-grid/getting-started/">
+    <a href="https://www.ag-grid.com/vue-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
         <img src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/fw-logos/vue.svg?raw=true" height="16" width="16" alt="Vue Logo"> Vue.
     </a>
 </strong>
@@ -289,20 +289,20 @@ AG Grid is fully customisable, both in terms of appearance and functionality. Th
 
 You can create your own Custom Components to customise the behaviour of the grid. For example, you can customise how cells are rendered, how values are edited and also create your own filters.
 
-There are a number of different [Component Types](https://www.ag-grid.com/javascript-data-grid/components/) that you can provide to the grid, including:
+There are a number of different [Component Types](https://www.ag-grid.com/javascript-data-grid/components/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) that you can provide to the grid, including:
 
-* [Cell Component](https://www.ag-grid.com/javascript-data-grid/component-cell-renderer/): To customise the contents of a cell.
-* [Header Component](https://www.ag-grid.com/javascript-data-grid/column-headers/): To customise the header of a column and column groups.
-* [Edit Component](https://www.ag-grid.com/javascript-data-grid/cell-editors/): To customise the editing of a cell.
-* [Filter Component](https://www.ag-grid.com/javascript-data-grid/component-filter/): For custom column filter that appears inside the column menu.
-* [Floating Filter](https://www.ag-grid.com/javascript-data-grid/component-floating-filter/): For custom column floating filter that appears inside the column menu.
-* [Date Component](https://www.ag-grid.com/javascript-data-grid/filter-date/#custom-selection-component): To customise the date selection component in the date filter.
-* [Loading Component](https://www.ag-grid.com/javascript-data-grid/component-loading-cell-renderer/): To customise the loading cell row when using Server Side Row Model.
-* [Overlay Component](https://www.ag-grid.com/javascript-data-grid/overlays/): To customise loading and no rows overlay components.
-* [Status Bar Component](https://www.ag-grid.com/javascript-data-grid/status-bar/): For custom status bar components.
-* [Tool Panel Component](https://www.ag-grid.com/javascript-data-grid/component-tool-panel/): For custom tool panel components.
-* [Tooltip Component](https://www.ag-grid.com/javascript-data-grid/tooltips/): For custom cell tooltip components.
-* [Menu Item Component](https://www.ag-grid.com/javascript-data-grid/component-menu-item/): To customise the menu items shown in the Column and Context Menus.
+* [Cell Component](https://www.ag-grid.com/javascript-data-grid/component-cell-renderer/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the contents of a cell.
+* [Header Component](https://www.ag-grid.com/javascript-data-grid/column-headers/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the header of a column and column groups.
+* [Edit Component](https://www.ag-grid.com/javascript-data-grid/cell-editors/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the editing of a cell.
+* [Filter Component](https://www.ag-grid.com/javascript-data-grid/component-filter/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom column filter that appears inside the column menu.
+* [Floating Filter](https://www.ag-grid.com/javascript-data-grid/component-floating-filter/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom column floating filter that appears inside the column menu.
+* [Date Component](https://www.ag-grid.com/javascript-data-grid/filter-date/#custom-selection-component)?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github: To customise the date selection component in the date filter.
+* [Loading Component](https://www.ag-grid.com/javascript-data-grid/component-loading-cell-renderer/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the loading cell row when using Server Side Row Model.
+* [Overlay Component](https://www.ag-grid.com/javascript-data-grid/overlays/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise loading and no rows overlay components.
+* [Status Bar Component](https://www.ag-grid.com/javascript-data-grid/status-bar/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom status bar components.
+* [Tool Panel Component](https://www.ag-grid.com/javascript-data-grid/component-tool-panel/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom tool panel components.
+* [Tooltip Component](https://www.ag-grid.com/javascript-data-grid/tooltips/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom cell tooltip components.
+* [Menu Item Component](https://www.ag-grid.com/javascript-data-grid/component-menu-item/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the menu items shown in the Column and Context Menus.
 
 To supply a custom cell renderer and filter components to the Grid, create a direct reference to your component within the `gridOptions.columnDefs` property:
 
@@ -320,7 +320,7 @@ gridOptions = {
 
 ### Themes
 
-AG Grid has 4 [themes](https://ag-grid.com/vue-data-grid/global-style/), each available in `light` & `dark` modes. We also supply each theme with an `auto` mode that can toggle the theme based on the users' system preferences:
+AG Grid has 4 [themes](https://ag-grid.com/vue-data-grid/global-style/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), each available in `light` & `dark` modes. We also supply each theme with an `auto` mode that can toggle the theme based on the users' system preferences:
 
 <table>
     <tr>
@@ -329,7 +329,7 @@ AG Grid has 4 [themes](https://ag-grid.com/vue-data-grid/global-style/), each av
     </tr>
     <tr>
         <td>
-            <a href="https://www.ag-grid.com/javascript-data-grid/themes/">
+            <a href="https://www.ag-grid.com/javascript-data-grid/themes/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
                 <picture>
                     <source srcset="./quartz-theme-light.png" media="(prefers-color-scheme: light)">
                     <source srcset="./quartz-theme.png" media="(prefers-color-scheme: dark)">
@@ -338,7 +338,7 @@ AG Grid has 4 [themes](https://ag-grid.com/vue-data-grid/global-style/), each av
             </a>
         </td>
         <td>
-            <a href="https://www.ag-grid.com/javascript-data-grid/themes/">
+            <a href="https://www.ag-grid.com/javascript-data-grid/themes/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
                 <picture>
                     <source srcset="./material-theme-light.png" media="(prefers-color-scheme: light)">
                     <source srcset="./material-theme.png" media="(prefers-color-scheme: dark)">
@@ -353,7 +353,7 @@ AG Grid has 4 [themes](https://ag-grid.com/vue-data-grid/global-style/), each av
     </tr>
     <tr>
         <td>
-            <a href="https://www.ag-grid.com/javascript-data-grid/themes/">
+            <a href="https://www.ag-grid.com/javascript-data-grid/themes/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
                 <picture>
                     <source srcset="./alpine-theme-light.png" media="(prefers-color-scheme: light)">
                     <source srcset="./alpine-theme.png" media="(prefers-color-scheme: dark)">
@@ -362,7 +362,7 @@ AG Grid has 4 [themes](https://ag-grid.com/vue-data-grid/global-style/), each av
             </a>
         </td>
         <td>
-            <a href="https://www.ag-grid.com/javascript-data-grid/themes/">
+            <a href="https://www.ag-grid.com/javascript-data-grid/themes/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">
                 <picture>
                     <source srcset="./balham-theme-light.png" media="(prefers-color-scheme: light)">
                     <source srcset="./balham-theme.png" media="(prefers-color-scheme: dark)">
@@ -381,13 +381,13 @@ To apply a theme, add the relevant CSS Class to the Data Grid container. For exa
 
 ### Custom Themes
 
-All AG Grid themes can be customised using [CSS variables](https://www.ag-grid.com/javascript-data-grid/global-style-customisation/), or you can create a new theme from scratch with the help of our [Theme Builder](https://www.ag-grid.com/theme-builder/) or [Figma Design System](./figma-design-system).
+All AG Grid themes can be customised using [CSS variables](https://www.ag-grid.com/javascript-data-grid/global-style-customisation-variables/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), or you can create a new theme from scratch with the help of our [Theme Builder](https://www.ag-grid.com/theme-builder/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) or [Figma Design System](https://www.figma.com/community/file/1360600846643230092/ag-grid-design-system).
 
 ## 🌍 Community
 
 ### Tools & Extensions
 
-AG Grid has a large and active community who have created an [ecosystem of 3rd party tools, extensions and utilities](https://www.ag-grid.com/community/tools-extensions/) to help you build your next project with AG Grid, no matter which language or framework you use:
+AG Grid has a large and active community who have created an [ecosystem of 3rd party tools, extensions and utilities](https://www.ag-grid.com/community/tools-extensions/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) to help you build your next project with AG Grid, no matter which language or framework you use:
 
 <div>
     <a href="https://www.ag-grid.com/community/tools-extensions/">
@@ -424,7 +424,7 @@ AG Grid has a large and active community who have created an [ecosystem of 3rd p
 
 ### Showcase
 
-AG Grid is used by 100,000's of developers across the world, from almost every industry. Whilst most of these projects are private, we've curated a selection of open-source projects from different industries where household names rely on AG Grid, including **J.P.Morgan**, **MongoDB** and **NASA**. Visit our [Community Showcase](https://www.ag-grid.com/community/showcase/) page to learn more.
+AG Grid is used by 100,000's of developers across the world, from almost every industry. Whilst most of these projects are private, we've curated a selection of open-source projects from different industries where household names rely on AG Grid, including **J.P.Morgan**, **MongoDB** and **NASA**. Visit our [Community Showcase](https://www.ag-grid.com/community/showcase/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) page to learn more.
 
 ### Stargazers
 
@@ -468,11 +468,11 @@ See the [LICENSE file](./LICENSE.txt) for more info.
 
 <div><h2><img vertical-align="middle" width="32" height="32" src="https://github.com/ag-grid/ag-grid/blob/latest/documentation/ag-grid-docs/public/images/ag-logos/svg-logos/AG-BrandMark_Light-Theme.svg?raw=true" alt="AG ChartsLogo">AG Charts</h2></div>
 
-If you've made it this far, you may be interested in our latest project: [AG Charts](https://charts.ag-grid.com) - The best JavaScript Charting library in the world.
+If you've made it this far, you may be interested in our latest project: [AG Charts](https://charts.ag-grid.com?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) - The best JavaScript Charting library in the world.
 
-Initially built to power [Integrated Charts](https://www.ag-grid.com/javascript-data-grid/integrated-charts/) in AG Grid, we open-sourced this project in 2018. Having seen the steady rise in popularity since then, we have decided to invest in AG Charts with a dedicated Enterprise version (`ag-charts-enterprise`) in addition to our continued support of `ag-charts-community`.
+Initially built to power [Integrated Charts](https://www.ag-grid.com/javascript-data-grid/integrated-charts/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) in AG Grid, we open-sourced this project in 2018. Having seen the steady rise in popularity since then, we have decided to invest in AG Charts with a dedicated Enterprise version (`ag-charts-enterprise`) in addition to our continued support of `ag-charts-community`.
 
-Learn more at [AG-Charts.com](https://charts.ag-grid.com/)
+Learn more at [AG-Charts.com](https://charts.ag-grid.com/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github)
 
 <div align="center">
     
