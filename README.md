@@ -109,11 +109,11 @@ AG Grid is available in two versions: Community & Enterprise.
 | Perpetual License            | ❌                | ✅                 |
 
 > [!IMPORTANT]
-> Visit the [Pricing](https://www.ag-grid.com/license-pricing/) page for a full comparison.
+> Visit the [Pricing](https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) page for a full comparison.
 
 ### Examples
 
-We've created several demos to showcase AG Grid's rich feature set across different use cases. See them in action below, or interact with them on our [Demo](https://www.ag-grid.com/example/) page.
+We've created several demos to showcase AG Grid's rich feature set across different use cases. See them in action below, or interact with them on our [Demo](https://www.ag-grid.com/example/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) page.
 
 <details open>
   <summary>🏦 <b>Financial Demo</b></summary>
