@@ -115,7 +115,17 @@ AG Grid is available in two versions: Community & Enterprise.
 | [Tool Panels](https://www.ag-grid.com/javascript-data-grid/tool-panel/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github)                    | ❌                | ✅                 |
 | [Support](https://ag-grid.zendesk.com/hc/en-us)                                                                                                                | ❌                | ✅                 |
 
-> <div valign="middle"><img src="./important.svg" /><span valign="middle" ><b>Important:</b></span> Visit the <a href="https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Pricing</a> page for a full comparison.</span><div>
+<!-- <blockquote>
+    <p>🟣 <strong>Important:</strong><br>Visit the <a href="https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Pricing</a> page for a full comparison.</p>
+</blockquote>
+
+> <div vertical-align="middle"><img src="./important.svg" /><p align="right" ><b>Important:</b></p> </span><div> -->
+
+<blockquote>
+<img align="left" width="24px" src="./important.svg" />
+<p><b>&nbsp;Important:</b><p>
+Visit the <a href="https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Pricing</a> page for a full comparison.
+</blockquote>
 
 ### Examples
 
