@@ -115,8 +115,21 @@ AG Grid is available in two versions: Community & Enterprise.
 | [Tool Panels](https://www.ag-grid.com/javascript-data-grid/tool-panel/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github)                    | ❌                | ✅                 |
 | [Support](https://ag-grid.zendesk.com/hc/en-us)                                                                                                                | ❌                | ✅                 |
 
-> [!IMPORTANT]
-> Visit the [Pricing](https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) page for a full comparison.
+<table>
+  <tr>
+    <td>
+      <img src="./important.svg" />
+      <span valign="middle" ><b>Important</b></span>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+   <td colspan="2">
+    Visit the <a href="https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Pricing</a> page for a full comparison.
+   </td>
+  </tr>
+</table>
 
 ### Examples
 

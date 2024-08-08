@@ -1,0 +1,11 @@
+{
+  "name": "test-ag-grid-readmes",
+  "version": "1.0.0",
+  "description": "test readme formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
