@@ -57,34 +57,34 @@
 <details>
   <summary><strong>Table of Contents</strong></summary>
 
--   [📖 Overview](#-overview)
-    -   [Features](#features)
-    -   [Examples](#examples)
--   [⚡️ Quick Start](#️-quick-start)
-    -   [Installation](#installation)
-    -   [Setup](#setup)
-    -   [Seed Projects](#seed-projects)
--   [🛠️ Customisations](#️-customisations)
-    -   [Custom Components](#custom-components)
-    -   [Themes](#themes)
-    -   [Custom Themes](#custom-themes)
--   [🌍 Community](#-community)
-    -   [Tools \& Extensions](#tools--extensions)
-    -   [Showcase](#showcase)
-    -   [Stargazers](#stargazers)
--   [🤝 Support](#-support)
-    -   [Enterprise Support](#enterprise-support)
-    -   [Bug Reports](#bug-reports)
-    -   [Questions](#questions)
-    -   [Contributing](#contributing)
--   [⚠️ License](#️-license)
+- [📖 Overview](#-overview)
+  - [Features](#features)
+  - [Examples](#examples)
+- [⚡️ Quick Start](#️-quick-start)
+  - [Installation](#installation)
+  - [Setup](#setup)
+  - [Seed Projects](#seed-projects)
+- [🛠️ Customisations](#️-customisations)
+  - [Custom Components](#custom-components)
+  - [Themes](#themes)
+  - [Custom Themes](#custom-themes)
+- [🌍 Community](#-community)
+  - [Tools \& Extensions](#tools--extensions)
+  - [Showcase](#showcase)
+  - [Stargazers](#stargazers)
+- [🤝 Support](#-support)
+  - [Enterprise Support](#enterprise-support)
+  - [Bug Reports](#bug-reports)
+  - [Questions](#questions)
+  - [Contributing](#contributing)
+- [⚠️ License](#️-license)
 
 </details>
 
 AG Grid is available in two versions: Community & Enterprise.
 
--   `ag-grid-community` is free, available under the MIT license, and comes with all of the core features expected from a JavaScript Data Grid, including [Sorting](https://www.ag-grid.com/javascript-data-grid/row-sorting/#sorting?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Filtering](https://www.ag-grid.com/javascript-data-grid/filtering/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Pagination](https://www.ag-grid.com/javascript-data-grid/row-pagination/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Editing](https://www.ag-grid.com/javascript-data-grid/cell-editing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Custom Components](https://www.ag-grid.com/javascript-data-grid/component-cell-renderer/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Theming](https://www.ag-grid.com/javascript-data-grid/themes/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) and more.
--   `ag-grid-enterprise` is available under a commercial license and comes with advanced features, like [Integrated Charting](https://www.ag-grid.com/javascript-data-grid/integrated-charts/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Row Grouping](https://www.ag-grid.com/javascript-data-grid/grouping/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Aggregation](https://www.ag-grid.com/javascript-data-grid/grouping/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Pivoting](https://www.ag-grid.com/javascript-data-grid/pivoting/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Master/Detail](https://www.ag-grid.com/javascript-data-grid/master-detail/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Server-side Row Model](https://www.ag-grid.com/javascript-data-grid/server-side-model/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), and [Exporting](https://www.ag-grid.com/javascript-data-grid/excel-export/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) in addition to dedicated support from our Engineering team.
+- `ag-grid-community` is free, available under the MIT license, and comes with all of the core features expected from a JavaScript Data Grid, including [Sorting](https://www.ag-grid.com/javascript-data-grid/row-sorting/#sorting?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Filtering](https://www.ag-grid.com/javascript-data-grid/filtering/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Pagination](https://www.ag-grid.com/javascript-data-grid/row-pagination/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Editing](https://www.ag-grid.com/javascript-data-grid/cell-editing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Custom Components](https://www.ag-grid.com/javascript-data-grid/component-cell-renderer/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Theming](https://www.ag-grid.com/javascript-data-grid/themes/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) and more.
+- `ag-grid-enterprise` is available under a commercial license and comes with advanced features, like [Integrated Charting](https://www.ag-grid.com/javascript-data-grid/integrated-charts/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Row Grouping](https://www.ag-grid.com/javascript-data-grid/grouping/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Aggregation](https://www.ag-grid.com/javascript-data-grid/grouping/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Pivoting](https://www.ag-grid.com/javascript-data-grid/pivoting/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Master/Detail](https://www.ag-grid.com/javascript-data-grid/master-detail/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), [Server-side Row Model](https://www.ag-grid.com/javascript-data-grid/server-side-model/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github), and [Exporting](https://www.ag-grid.com/javascript-data-grid/excel-export/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) in addition to dedicated support from our Engineering team.
 
 ### Features
 
@@ -115,21 +115,7 @@ AG Grid is available in two versions: Community & Enterprise.
 | [Tool Panels](https://www.ag-grid.com/javascript-data-grid/tool-panel/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github)                    | ❌                | ✅                 |
 | [Support](https://ag-grid.zendesk.com/hc/en-us)                                                                                                                | ❌                | ✅                 |
 
-<table>
-  <tr>
-    <td>
-      <img src="./important.svg" />
-      <span valign="middle" ><b>Important</b></span>
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-   <td colspan="2">
-    Visit the <a href="https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Pricing</a> page for a full comparison.
-   </td>
-  </tr>
-</table>
+> <div valign="middle"><img src="./important.svg" /><span valign="middle" ><b>Important:</b></span> Visit the <a href="https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Pricing</a> page for a full comparison.</span><div>
 
 ### Examples
 
@@ -206,14 +192,14 @@ Load the AG Grid library and create a blank container div:
 
 ```html
 <html lang="en">
-    <head>
-        <!-- Includes all JS & CSS for the JavaScript Data Grid -->
-        <script src="https://cdn.jsdelivr.net/npm/ag-grid-community/dist/ag-grid-community.min.js"></script>
-    </head>
-    <body>
-        <!-- Your Data Grid container -->
-        <div id="myGrid"></div>
-    </body>
+  <head>
+    <!-- Includes all JS & CSS for the JavaScript Data Grid -->
+    <script src="https://cdn.jsdelivr.net/npm/ag-grid-community/dist/ag-grid-community.min.js"></script>
+  </head>
+  <body>
+    <!-- Your Data Grid container -->
+    <div id="myGrid"></div>
+  </body>
 </html>
 ```
 
@@ -235,14 +221,19 @@ agGrid.createGrid(myGridElement, gridOptions);
 ```js
 // Grid Options: Contains all of the Data Grid configurations
 const gridOptions = {
-    // Row Data: The data to be displayed.
-    rowData: [
-        { make: 'Tesla', model: 'Model Y', price: 64950, electric: true },
-        { make: 'Ford', model: 'F-Series', price: 33850, electric: false },
-        { make: 'Toyota', model: 'Corolla', price: 29600, electric: false },
-    ],
-    // Column Definitions: Defines the columns to be displayed.
-    columnDefs: [{ field: 'make' }, { field: 'model' }, { field: 'price' }, { field: 'electric' }],
+  // Row Data: The data to be displayed.
+  rowData: [
+    { make: 'Tesla', model: 'Model Y', price: 64950, electric: true },
+    { make: 'Ford', model: 'F-Series', price: 33850, electric: false },
+    { make: 'Toyota', model: 'Corolla', price: 29600, electric: false },
+  ],
+  // Column Definitions: Defines the columns to be displayed.
+  columnDefs: [
+    { field: 'make' },
+    { field: 'model' },
+    { field: 'price' },
+    { field: 'electric' },
+  ],
 };
 ```
 
@@ -335,30 +326,30 @@ You can create your own Custom Components to customise the behaviour of the grid
 
 There are a number of different [Component Types](https://www.ag-grid.com/javascript-data-grid/components/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github) that you can provide to the grid, including:
 
--   [Cell Component](https://www.ag-grid.com/javascript-data-grid/component-cell-renderer/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the contents of a cell.
--   [Header Component](https://www.ag-grid.com/javascript-data-grid/column-headers/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the header of a column and column groups.
--   [Edit Component](https://www.ag-grid.com/javascript-data-grid/cell-editors/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the editing of a cell.
--   [Filter Component](https://www.ag-grid.com/javascript-data-grid/component-filter/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom column filter that appears inside the column menu.
--   [Floating Filter](https://www.ag-grid.com/javascript-data-grid/component-floating-filter/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom column floating filter that appears inside the column menu.
--   [Date Component](https://www.ag-grid.com/javascript-data-grid/filter-date/#custom-selection-component?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the date selection component in the date filter.
--   [Loading Component](https://www.ag-grid.com/javascript-data-grid/component-loading-cell-renderer/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the loading cell row when using Server Side Row Model.
--   [Overlay Component](https://www.ag-grid.com/javascript-data-grid/overlays/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise loading and no rows overlay components.
--   [Status Bar Component](https://www.ag-grid.com/javascript-data-grid/status-bar/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom status bar components.
--   [Tool Panel Component](https://www.ag-grid.com/javascript-data-grid/component-tool-panel/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom tool panel components.
--   [Tooltip Component](https://www.ag-grid.com/javascript-data-grid/tooltips/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom cell tooltip components.
--   [Menu Item Component](https://www.ag-grid.com/javascript-data-grid/component-menu-item/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the menu items shown in the Column and Context Menus.
+- [Cell Component](https://www.ag-grid.com/javascript-data-grid/component-cell-renderer/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the contents of a cell.
+- [Header Component](https://www.ag-grid.com/javascript-data-grid/column-headers/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the header of a column and column groups.
+- [Edit Component](https://www.ag-grid.com/javascript-data-grid/cell-editors/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the editing of a cell.
+- [Filter Component](https://www.ag-grid.com/javascript-data-grid/component-filter/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom column filter that appears inside the column menu.
+- [Floating Filter](https://www.ag-grid.com/javascript-data-grid/component-floating-filter/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom column floating filter that appears inside the column menu.
+- [Date Component](https://www.ag-grid.com/javascript-data-grid/filter-date/#custom-selection-component?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the date selection component in the date filter.
+- [Loading Component](https://www.ag-grid.com/javascript-data-grid/component-loading-cell-renderer/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the loading cell row when using Server Side Row Model.
+- [Overlay Component](https://www.ag-grid.com/javascript-data-grid/overlays/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise loading and no rows overlay components.
+- [Status Bar Component](https://www.ag-grid.com/javascript-data-grid/status-bar/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom status bar components.
+- [Tool Panel Component](https://www.ag-grid.com/javascript-data-grid/component-tool-panel/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom tool panel components.
+- [Tooltip Component](https://www.ag-grid.com/javascript-data-grid/tooltips/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): For custom cell tooltip components.
+- [Menu Item Component](https://www.ag-grid.com/javascript-data-grid/component-menu-item/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github): To customise the menu items shown in the Column and Context Menus.
 
 To supply a custom cell renderer and filter components to the Grid, create a direct reference to your component within the `gridOptions.columnDefs` property:
 
 ```js
 gridOptions = {
-    columnDefs: [
-        {
-            field: 'country', // The column to add the component to
-            cellRenderer: CountryCellRenderer, // Your custom cell component
-            filter: CountryFilter, // Your custom filter component
-        },
-    ],
+  columnDefs: [
+    {
+      field: 'country', // The column to add the component to
+      cellRenderer: CountryCellRenderer, // Your custom cell component
+      filter: CountryFilter, // Your custom filter component
+    },
+  ],
 };
 ```
 
@@ -420,7 +411,11 @@ AG Grid has 4 [themes](https://ag-grid.com/javascript-data-grid/global-style/?ut
 To apply a theme, add the relevant CSS Class to the Data Grid container. For example, to apply the Quartz theme, use the CSS class `ag-theme-quartz`:
 
 ```js
-<div id="myGrid" style="height: 150px; width: 600px" class="ag-theme-quartz"></div>
+<div
+  id="myGrid"
+  style="height: 150px; width: 600px"
+  class="ag-theme-quartz"
+></div>
 ```
 
 ### Custom Themes
