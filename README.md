@@ -129,7 +129,7 @@ Visit the <a href="https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-r
 
 <blockquote>
     <p>ℹ️ <b>Note:</b></p>
-    <p>Visit the <a href="https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Pricing</a> page for a full comparison.</p>
+    <span>Visit the <a href="https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Pricing</a> page for a full comparison.</span>
 </blockquote>
 
 ### Examples
@@ -265,7 +265,7 @@ Add the `ag-theme-quartz` CSS class to your Data Grid container div to apply the
 
 <blockquote>
     <p>ℹ️ <b>Note:</b></p>
-    <p>For more information on building Data Grids with AG Grid, refer to our <a href="https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=githu">Documentation</a>.</p>
+    <span>For more information on building Data Grids with AG Grid, refer to our <a href="https://www.ag-grid.com/javascript-data-grid/getting-started/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=githu">Documentation</a>.</span>
 </blockquote>
 
 ### Seed Projects
