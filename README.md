@@ -128,7 +128,7 @@ Visit the <a href="https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-r
 </div> -->
 
 <blockquote>
-    <p>ℹ️ <b>Important:</b></p>
+    <p><b>Important:</b></p>
     <p>Visit the <a href="https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Pricing</a> page for a full comparison.</p>
 </blockquote>
 
