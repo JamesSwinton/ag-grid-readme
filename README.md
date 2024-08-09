@@ -121,10 +121,15 @@ AG Grid is available in two versions: Community & Enterprise.
 
 > <div vertical-align="middle"><img src="./important.svg" /><p align="right" ><b>Important:</b></p> </span><div> -->
 
-<blockquote>
+<!-- <div>
 <img align="left" width="24px" src="./important.svg" />
-<p><b>Important:</b></p>
+<span><b>Important:</b></span><br><br>
 Visit the <a href="https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Pricing</a> page for a full comparison.
+</div> -->
+
+<blockquote>
+    <p>ℹ️ <b>Important:</b></p>
+    <p>Visit the <a href="https://www.ag-grid.com/license-pricing/?utm_source=ag-grid-readme&utm_medium=repository&utm_campaign=github">Pricing</a> page for a full comparison.</p>
 </blockquote>
 
 ### Examples
